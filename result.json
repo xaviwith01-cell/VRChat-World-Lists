@@ -9,6 +9,7 @@
           "ID": "wrld_6a730cf2-d899-4b81-83ad-02c817c20523",
           "Name": "涼んでいって寝 -Escape from midsummer-",
           "Description": "ほどよい広さでホームにチルワに。落ち着いた大人の雰囲気。花火もあがる。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_2e2e1080-1b88-4647-a816-5a2cb28478ff/2/file",
           "Platform": { "PC": true, "Android": true }
         }
       ]
@@ -20,18 +21,21 @@
           "ID": "wrld_9dfad817-b44c-4631-8545-5ff2c8cac879",
           "Name": "WindHaven",
           "Description": "牧歌的でちょっぴりローポリ。そこそこ広いので探検すると何かあるかも。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_e27c5ca9-e6ba-4ad3-b533-4d09295f9ac2/4/file",
           "Platform": { "PC": true, "Android": true }
         },
         {
           "ID": "wrld_ec5552f2-92e7-4849-8bd8-0b3c6aad4fef",
           "Name": "Palm Point",
           "Description": "夜のトロピカル・アイランド。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_c2f0808f-02e0-459a-b1fa-f3dd844bbb97/4/file",
           "Platform": { "PC": true, "Android": true }
         },
         {
           "ID": "wrld_30b3db7c-6318-4763-8757-af9a8b2cc741",
           "Name": "Celestia",
           "Description": "宇宙に浮かぶ小さなステーション。移動可能。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_19b1988b-15be-4bcc-ab68-1f75ebe69d58/3/file",
           "Platform": { "PC": true, "Android": true }
         }
       ]
@@ -43,6 +47,7 @@
           "ID": "wrld_8f7fa5db-8b2e-4e3c-a164-0db1054a9e7c",
           "Name": "Tropical Island Villa",
           "Description": "海～～！青い空。白い砂浜。アイランド。隠れ要素もあり。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_29ac6039-02dc-44d2-aa04-4449305bce5c/8/file",
           "Platform": { "PC": true, "Android": false }
         }
       ]
@@ -54,6 +59,7 @@
           "ID": "wrld_af322d69-3aae-427e-9815-e6efc61eb26d",
           "Name": "Moonlit Night - Megumi x Kevin",
           "Description": "蝶が舞うちょっぴりファンタジーな夜。大人の雰囲気。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_ed39f1eb-db30-45db-ae68-e2cc24a96c38/1/file",
           "Platform": { "PC": true, "Android": true }
         }
       ]
@@ -65,18 +71,21 @@
           "ID": "wrld_9aa28bc4-668a-4caf-bbe3-0454d7fcad16",
           "Name": "＃和菓子BAR_ぼたもちくん 本店 ［Winter］（v1․75）",
           "Description": "定期イベント会場。探索要素あり。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_804e5538-1a31-44b3-8578-2541d20a53b8/8/file",
           "Platform": { "PC": true, "Android": true }
         },
         {
           "ID": "wrld_c84eaf46-07ec-4d79-8a4c-a64e2d5415c3",
           "Name": "Furality Sylva˸ Treehouse Village",
           "Description": "木の上はみんなで楽しむ場所。迷子に注意。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_d7a3f3da-6008-4c3d-b38d-9d3feff5ea80/2/file",
           "Platform": { "PC": true, "Android": true }
         },
         {
           "ID": "wrld_5a157006-e16b-4ed8-93d0-2c620e9598c1",
           "Name": "Attractor",
           "Description": "20万パーティクルの幾何学模様。見てもよし、さわるとなおよし。カラフルじゃないよ。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_8b70499e-5881-420d-8549-b5a5b565017e/1/file",
           "Platform": { "PC": true, "Android": true }
         }
       ]
@@ -88,12 +97,14 @@
           "ID": "wrld_c5e6f67c-c2aa-4dbc-86d7-846fcfedbef3",
           "Name": "I feel small",
           "Description": "ここはアリの巣が迷路か。ネオンチック。迷子にならないようにロープを追って。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_839973a8-d697-431c-8eef-070a87d4c0b6/4/file",
           "Platform": { "PC": true, "Android": true }
         },
         {
           "ID": "wrld_6115629c-8519-4876-9285-b1a9e763f0d4",
           "Name": "Kofun (Japanese Ancient Tomb)",
           "Description": "大きな前方後円墳。周りはのどかな風景。中に入れるかも？",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_665a4439-cc86-4df0-96f7-11110034a781/1/file",
           "Platform": { "PC": true, "Android": true }
         }
       ]
