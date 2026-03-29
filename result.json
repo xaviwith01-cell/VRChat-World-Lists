@@ -37,6 +37,13 @@
           "Description": "宇宙に浮かぶ小さなステーション。移動可能。",
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_19b1988b-15be-4bcc-ab68-1f75ebe69d58/3/file",
           "Platform": { "PC": true, "Android": true }
+        },
+        {
+          "ID": "wrld_af322d69-3aae-427e-9815-e6efc61eb26d",
+          "Name": "Moonlit Night - Megumi x Kevin",
+          "Description": "蝶が舞うちょっぴりファンタジーな夜。大人の雰囲気。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_ed39f1eb-db30-45db-ae68-e2cc24a96c38/1/file",
+          "Platform": { "PC": true, "Android": true }
         }
       ]
     },
@@ -49,18 +56,6 @@
           "Description": "海～～！青い空。白い砂浜。アイランド。隠れ要素もあり。",
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_29ac6039-02dc-44d2-aa04-4449305bce5c/8/file",
           "Platform": { "PC": true, "Android": false }
-        }
-      ]
-    },
-    {
-      "Category": "Win/And｜TILL",
-      "Worlds": [
-        {
-          "ID": "wrld_af322d69-3aae-427e-9815-e6efc61eb26d",
-          "Name": "Moonlit Night - Megumi x Kevin",
-          "Description": "蝶が舞うちょっぴりファンタジーな夜。大人の雰囲気。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_ed39f1eb-db30-45db-ae68-e2cc24a96c38/1/file",
-          "Platform": { "PC": true, "Android": true }
         }
       ]
     },
