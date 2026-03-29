@@ -33,12 +33,6 @@
           "Name": "Celestia",
           "Description": "宇宙に浮かぶ小さなステーション。移動可能。",
           "Platform": { "PC": true, "Android": true }
-        },
-        {
-          "ID": "wrld_af322d69-3aae-427e-9815-e6efc61eb26d",
-          "Name": "Moonlit Night - Megumi x Kevin",
-          "Description": "蝶が舞うちょっぴりファンタジーな夜。大人の雰囲気。",
-          "Platform": { "PC": true, "Android": true }
         }
       ]
     },
@@ -50,6 +44,17 @@
           "Name": "Tropical Island Villa",
           "Description": "海～～！青い空。白い砂浜。アイランド。隠れ要素もあり。",
           "Platform": { "PC": true, "Android": false }
+        }
+      ]
+    },
+    {
+      "Category": "WA｜TILL",
+      "Worlds": [
+        {
+          "ID": "wrld_af322d69-3aae-427e-9815-e6efc61eb26d",
+          "Name": "Moonlit Night - Megumi x Kevin",
+          "Description": "蝶が舞うちょっぴりファンタジーな夜。大人の雰囲気。",
+          "Platform": { "PC": true, "Android": true }
         }
       ]
     },
