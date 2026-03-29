@@ -99,13 +99,6 @@
           "Description": "ここはアリの巣が迷路か。ネオンチック。迷子にならないようにロープを追って。",
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_839973a8-d697-431c-8eef-070a87d4c0b6/4/file",
           "Platform": { "PC": true, "Android": true }
-        },
-        {
-          "ID": "wrld_6115629c-8519-4876-9285-b1a9e763f0d4",
-          "Name": "Kofun (Japanese Ancient Tomb)",
-          "Description": "大きな前方後円墳。周りはのどかな風景。中に入れるかも？",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_665a4439-cc86-4df0-96f7-11110034a781/1/file",
-          "Platform": { "PC": true, "Android": true }
         }
       ]
     }
