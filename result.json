@@ -1,3 +1,5 @@
+これをGitHubに貼ってな：
+
 {
   "ReverseCategorys": false,
   "ShowPrivateWorld": false,
@@ -155,6 +157,40 @@
           "Name": "Yamanote Line E235",
           "Description": "山手線に乗った気分になれます。",
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_f590919a-0128-485b-8bcf-e01072301248/4/file",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win/And｜FANTASY",
+      "Worlds": [
+        {
+          "ID": "wrld_02c8ac42-7b6c-4dd1-8a3d-1d12d20cd148",
+          "Name": "星降る丘に芽吹くは、忘れられし世界樹 -Forgotten Yggdrasil on the Starry Hill-",
+          "Description": "夜空から降ってきた星を集めると…。ファンタジーアイランド。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_f2e40146-53b9-43cc-963b-4638e20afc67/3/file",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win｜NOSTALGIC",
+      "Worlds": [
+        {
+          "ID": "wrld_3bfa6430-1536-45e6-a8ef-062b488aefab",
+          "Name": "雪夢島 -Snow Reverie Island-",
+          "Description": "雪降る街の聖夜。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_8219c0cd-3df7-48f4-9a0c-88e64174c6c8/3/file",
           "Platform": {
             "PC": true,
             "Android": false,
