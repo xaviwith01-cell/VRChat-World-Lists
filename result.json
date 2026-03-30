@@ -9,7 +9,7 @@
           "ID": "wrld_6a730cf2-d899-4b81-83ad-02c817c20523",
           "Name": "涼んでいって寝 -Escape from midsummer-",
           "Description": "ほどよい広さでホームにチルワに。落ち着いた大人の雰囲気。花火もあがる。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_2e2e1080-1b88-4647-a816-5a2cb28478ff/2/file",
+          "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -26,7 +26,7 @@
           "ID": "wrld_9dfad817-b44c-4631-8545-5ff2c8cac879",
           "Name": "WindHaven",
           "Description": "牧歌的でちょっぴりローポリ。そこそこ広いので探検すると何かあるかも。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_e27c5ca9-e6ba-4ad3-b533-4d09295f9ac2/4/file",
+          "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -38,7 +38,7 @@
           "ID": "wrld_ec5552f2-92e7-4849-8bd8-0b3c6aad4fef",
           "Name": "Palm Point",
           "Description": "夜のトロピカル・アイランド。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_c2f0808f-02e0-459a-b1fa-f3dd844bbb97/4/file",
+          "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -50,7 +50,7 @@
           "ID": "wrld_30b3db7c-6318-4763-8757-af9a8b2cc741",
           "Name": "Celestia",
           "Description": "宇宙に浮かぶ小さなステーション。移動可能。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_19b1988b-15be-4bcc-ab68-1f75ebe69d58/3/file",
+          "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -62,7 +62,7 @@
           "ID": "wrld_af322d69-3aae-427e-9815-e6efc61eb26d",
           "Name": "Moonlit Night - Megumi x Kevin",
           "Description": "蝶が舞うちょっぴりファンタジーな夜。大人の雰囲気。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_ed39f1eb-db30-45db-ae68-e2cc24a96c38/1/file",
+          "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -79,7 +79,19 @@
           "ID": "wrld_8f7fa5db-8b2e-4e3c-a164-0db1054a9e7c",
           "Name": "Tropical Island Villa",
           "Description": "海～～！青い空。白い砂浜。アイランド。隠れ要素もあり。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_29ac6039-02dc-44d2-aa04-4449305bce5c/8/file",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_00ee7c47-f767-4115-ae24-6d483e864d48",
+          "Name": "江ノ島 七里ヶ浜",
+          "Description": "潮の香と波の音をききたかったらここ。",
+          "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -96,7 +108,7 @@
           "ID": "wrld_9aa28bc4-668a-4caf-bbe3-0454d7fcad16",
           "Name": "＃和菓子BAR_ぼたもちくん 本店 [Winter]（v1.75）",
           "Description": "定期イベント会場。探索要素あり。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_804e5538-1a31-44b3-8578-2541d20a53b8/8/file",
+          "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -108,7 +120,7 @@
           "ID": "wrld_c84eaf46-07ec-4d79-8a4c-a64e2d5415c3",
           "Name": "Furality Sylva˸ Treehouse Village",
           "Description": "木の上はみんなで楽しむ場所。迷子に注意。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_d7a3f3da-6008-4c3d-b38d-9d3feff5ea80/2/file",
+          "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -136,8 +148,8 @@
         {
           "ID": "wrld_c5e6f67c-c2aa-4dbc-86d7-846fcfedbef3",
           "Name": "I feel small",
-          "Description": "ここはアリの巣が迷路か。ネオンチック。迷子にならないようにロープを追って。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_839973a8-d697-431c-8eef-070a87d4c0b6/4/file",
+          "Description": "ここはアリの巣か迷路か。ネオンチック。迷子にならないようにロープを追って。",
+          "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -154,7 +166,19 @@
           "ID": "wrld_3380ca07-2b6f-430e-a9b4-e3ee72f175af",
           "Name": "Yamanote Line E235",
           "Description": "山手線に乗った気分になれます。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_f590919a-0128-485b-8bcf-e01072301248/4/file",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2cb71f56-988c-471f-8141-018cf69d912f",
+          "Name": "まろの森 （夏祭）MARONOMORI -SUMMER",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -171,7 +195,7 @@
           "ID": "wrld_02c8ac42-7b6c-4dd1-8a3d-1d12d20cd148",
           "Name": "星降る丘に芽吹くは、忘れられし世界樹 -Forgotten Yggdrasil on the Starry Hill-",
           "Description": "夜空から降ってきた星を集めると…。ファンタジーアイランド。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_f2e40146-53b9-43cc-963b-4638e20afc67/3/file",
+          "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -188,10 +212,416 @@
           "ID": "wrld_3bfa6430-1536-45e6-a8ef-062b488aefab",
           "Name": "雪夢島 -Snow Reverie Island-",
           "Description": "雪降る街の聖夜。",
-          "ThumbnailUrl": "https://files.unity3d.com/wp-content/uploads/2023/06/Made-with-Unity-Logo.png",
+          "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
             "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win/And｜Uncategorized",
+      "Worlds": [
+        {
+          "ID": "wrld_7f59eba6-a013-46af-ae06-ca4151efa75e",
+          "Name": "Oia Lookout",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_58f99f69-bb56-4dd9-9ed3-ab1abb633fe9",
+          "Name": "Hotel New Urban",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3a0b4bb6-99ac-4b08-8509-dfb38624f75c",
+          "Name": "Noriben Fireworks v1.5",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_753185da-f716-4d6a-add2-281092568a58",
+          "Name": "常夏島 Eternal Summer Island",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_309c5e40-2ffa-423e-b316-2162ef5b6f5c",
+          "Name": "夏夢島 -Summer Dream Island-",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_51dbe89b-10c0-49e1-8447-777ea36b83f6",
+          "Name": "Chysa's Tropical Getaway",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b981e35e-597f-4604-a06b-d92188bf89e9",
+          "Name": "Storm Drain",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3ac9ade7-44d7-4324-81c8-dda731bcde4e",
+          "Name": "violet night",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3f6d50bd-cc9b-45e0-8303-9ba63f72b323",
+          "Name": "Aqua To The Moon",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_255d3da7-8693-456a-b671-0ec1357f9b49",
+          "Name": "Particle Plant",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_bb4584a5-a679-43a3-a589-e4e9ca5815e1",
+          "Name": "枯水（こすい） - KOSUI ZAZEN KARESANSUI",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_25d2bdc2-9989-4d2f-9262-72ed4f265aca",
+          "Name": "0706 -雪舞う月夜に君何想う",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_13f6eaab-8d6d-41d4-9e33-49ade96f458d",
+          "Name": "かたちあるもの",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_03dac69a-7c9d-468e-a247-db32e5b96d3a",
+          "Name": "holonatsu Paradise official world",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9b02567a-e68f-4921-a8a8-068c1a9b7b9a",
+          "Name": "Pacific Dreams （Night）",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1f9fc7c3-e258-4e99-bc9f-b4163a963590",
+          "Name": "初霜の庭 -Japan Autumn Garden-",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1d639d8e-5907-4441-b8ef-72a95e75288b",
+          "Name": "Snow and StreetLight",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_51beaab3-89f2-4bd4-8b28-30e7dff0c333",
+          "Name": "彩星坑道（さいせいこうどう）",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_38640b02-e7fa-4a79-8fa0-105bcca20700",
+          "Name": "Tower Cafe ⁄ タワー·カフェ",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8dda1579-9f04-4c36-9537-a3bf5f1fd23a",
+          "Name": "Sunset Express - Relaxing train journey",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d59c8c7d-69a9-48d3-a6f2-f67d0414bb83",
+          "Name": "WELL ⁄ 井戸",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5e5511b0-9ef3-419a-bb5a-aa301089607e",
+          "Name": "Aspirla",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e21275df-de21-4eca-b7aa-f7710cc50278",
+          "Name": "Suspended In Time",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c5b8f237-ab8a-4723-a0f6-747b539e49d0",
+          "Name": "Breathing",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d703eefc-feac-4379-8a76-50d975597ef9",
+          "Name": "Glass",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_39bb460b-4d71-4cb4-93c7-3281804ab73d",
+          "Name": "天の川通り 明星 -Amanogawa Street Myoujyo-",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_142dfd1e-bb1a-44b5-a982-0882a70f5f18",
+          "Name": "Lonely Sunset",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8d3b76d6-f406-47cc-9b5b-70066b246db9",
+          "Name": "Roux's Caravan [South of Midnight]",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_91de3840-1b75-4092-b713-39256aa6cace",
+          "Name": "｜｜˸ Sky Shaft ˸｜｜",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_df596eec-e84b-4e06-ac11-53f2d3d9b0d7",
+          "Name": "capital city Karl-Balar",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f2013a49-ac57-4684-a36d-39a152ac3917",
+          "Name": "VEINPRM0118",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ef5e1903-f0be-4533-a4cd-821d1094a919",
+          "Name": "雨見温泉 Rainy hot spring",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win/And｜SOCIAL (Cafe/Bar/Restaurant)",
+      "Worlds": [
+        {
+          "ID": "wrld_cb47f62e-c8b2-4a5b-8471-cb0f72ec064b",
+          "Name": "哲学カフェ 芳紅 （ぽこ） 堂 - Cafe Poko-Do",
+          "Description": "大正ロマン風カフェでくり広げられる哲学談義。",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
             "iOS": false
           },
           "ReleaseStatus": "public"
