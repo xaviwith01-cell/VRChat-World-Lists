@@ -3,13 +3,13 @@
   "ShowPrivateWorld": false,
   "Categorys": [
     {
-      "Category": "Win/And HOME",
+      "Category": "Win/And｜HOME",
       "Worlds": [
         {
           "ID": "wrld_6a730cf2-d899-4b81-83ad-02c817c20523",
           "Name": "涼んでいって寝 -Escape from midsummer-",
           "Description": "ほどよい広さでホームにチルワに。落ち着いた大人の雰囲気。花火もあがる。",
-          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_a3e78457-4148-472d-830b-0648c6978519/1/file",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_2e2e1080-1b88-4647-a816-5a2cb28478ff/2/file",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "Category": "Win/And CHILL",
+      "Category": "Win/And｜CHILL",
       "Worlds": [
         {
           "ID": "wrld_9dfad817-b44c-4631-8545-5ff2c8cac879",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "Category": "Win CHILL(Beach/Ocean)",
+      "Category": "Win｜CHILL(Beach/Ocean)",
       "Worlds": [
         {
           "ID": "wrld_8f7fa5db-8b2e-4e3c-a164-0db1054a9e7c",
@@ -90,11 +90,11 @@
       ]
     },
     {
-      "Category": "Win/And FUN",
+      "Category": "Win/And｜FUN",
       "Worlds": [
         {
           "ID": "wrld_9aa28bc4-668a-4caf-bbe3-0454d7fcad16",
-          "Name": "和菓子BARぼたもちくん 本店 Winter",
+          "Name": "＃和菓子BAR_ぼたもちくん 本店 [Winter]（v1.75）",
           "Description": "定期イベント会場。探索要素あり。",
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_804e5538-1a31-44b3-8578-2541d20a53b8/8/file",
           "Platform": {
@@ -106,7 +106,7 @@
         },
         {
           "ID": "wrld_c84eaf46-07ec-4d79-8a4c-a64e2d5415c3",
-          "Name": "Furality Sylva Treehouse Village",
+          "Name": "Furality Sylva˸ Treehouse Village",
           "Description": "木の上はみんなで楽しむ場所。迷子に注意。",
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_d7a3f3da-6008-4c3d-b38d-9d3feff5ea80/2/file",
           "Platform": {
@@ -124,6 +124,40 @@
           "Platform": {
             "PC": true,
             "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win/And｜EXPLORE",
+      "Worlds": [
+        {
+          "ID": "wrld_c5e6f67c-c2aa-4dbc-86d7-846fcfedbef3",
+          "Name": "I feel small",
+          "Description": "ここはアリの巣が迷路か。ネオンチック。迷子にならないようにロープを追って。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_839973a8-d697-431c-8eef-070a87d4c0b6/4/file",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win｜FUN",
+      "Worlds": [
+        {
+          "ID": "wrld_3380ca07-2b6f-430e-a9b4-e3ee72f175af",
+          "Name": "Yamanote Line E235",
+          "Description": "山手線に乗った気分になれます。",
+          "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_f590919a-0128-485b-8bcf-e01072301248/4/file",
+          "Platform": {
+            "PC": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
