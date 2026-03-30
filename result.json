@@ -12,8 +12,10 @@
           "ThumbnailUrl": "https:
           "Platform": {
             "PC": true,
-            "Android": true
-          }
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -27,8 +29,10 @@
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_e27c5ca9-e6ba-4ad3-b533-4d09295f9ac2/4/file",
           "Platform": {
             "PC": true,
-            "Android": true
-          }
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         },
         {
           "ID": "wrld_ec5552f2-92e7-4849-8bd8-0b3c6aad4fef",
@@ -37,8 +41,10 @@
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_c2f0808f-02e0-459a-b1fa-f3dd844bbb97/4/file",
           "Platform": {
             "PC": true,
-            "Android": true
-          }
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         },
         {
           "ID": "wrld_30b3db7c-6318-4763-8757-af9a8b2cc741",
@@ -47,8 +53,10 @@
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_19b1988b-15be-4bcc-ab68-1f75ebe69d58/3/file",
           "Platform": {
             "PC": true,
-            "Android": true
-          }
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         },
         {
           "ID": "wrld_af322d69-3aae-427e-9815-e6efc61eb26d",
@@ -57,8 +65,10 @@
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_ed39f1eb-db30-45db-ae68-e2cc24a96c38/1/file",
           "Platform": {
             "PC": true,
-            "Android": true
-          }
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -72,8 +82,10 @@
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_29ac6039-02dc-44d2-aa04-4449305bce5c/8/file",
           "Platform": {
             "PC": true,
-            "Android": false
-          }
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -87,8 +99,10 @@
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_804e5538-1a31-44b3-8578-2541d20a53b8/8/file",
           "Platform": {
             "PC": true,
-            "Android": true
-          }
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         },
         {
           "ID": "wrld_c84eaf46-07ec-4d79-8a4c-a64e2d5415c3",
@@ -97,8 +111,10 @@
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_d7a3f3da-6008-4c3d-b38d-9d3feff5ea80/2/file",
           "Platform": {
             "PC": true,
-            "Android": true
-          }
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         },
         {
           "ID": "wrld_5a157006-e16b-4ed8-93d0-2c620e9598c1",
@@ -107,8 +123,10 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true
-          }
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -122,8 +140,10 @@
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_839973a8-d697-431c-8eef-070a87d4c0b6/4/file",
           "Platform": {
             "PC": true,
-            "Android": true
-          }
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -137,8 +157,10 @@
           "ThumbnailUrl": "https://api.vrchat.cloud/api/1/file/file_f590919a-0128-485b-8bcf-e01072301248/4/file",
           "Platform": {
             "PC": true,
-            "Android": false
-          }
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     }
