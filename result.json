@@ -139,6 +139,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5f268967-1f2b-4ea3-96e2-72207ffebb04",
+          "Name": "いなでん公園 Inaden park",
+          "Description": "電車は来ない小さな公園。",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -185,6 +197,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d75eb498-b5fa-42c9-aed4-1ae251f613ee",
+          "Name": "Chinatown",
+          "Description": "食べ歩き通り。中庭で休憩。ここは北京？",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -223,7 +247,7 @@
       ]
     },
     {
-      "Category": "Win/And｜Uncategorized",
+      "Category": "Win｜Uncategorized",
       "Worlds": [
         {
           "ID": "wrld_7f59eba6-a013-46af-ae06-ca4151efa75e",
@@ -232,7 +256,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -244,7 +268,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -256,7 +280,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -268,7 +292,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -280,7 +304,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -292,7 +316,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -304,7 +328,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -316,7 +340,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -328,7 +352,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -340,7 +364,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -352,7 +376,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -364,7 +388,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -376,7 +400,7 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -388,11 +412,88 @@
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
         },
+        {
+          "ID": "wrld_f5f95149-efc4-4744-8304-0f63d9ccebe7",
+          "Name": "AZ-01⁄VOID",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8e2a85f0-6d3d-4d24-90aa-44e9b6a81f2e",
+          "Name": "nagisa no machi",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_032ffe84-3bf0-47c1-9354-3aa75d6450f7",
+          "Name": "UMHL FakeLight Demo",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_fe04c7df-56a8-4772-8841-4fcc5349e83b",
+          "Name": "Lone Island",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2b2b2d35-96c7-43af-940b-625aebcbd269",
+          "Name": "Lost Meadow",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_146ea52b-02fa-4ecf-a32b-79f9cf5c65dd",
+          "Name": "Mt.Hakodate",
+          "Description": "函館の夜景。きれいだけじゃないぞ。カップルは飛行禁止。",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win/And｜Uncategorized",
+      "Worlds": [
         {
           "ID": "wrld_9b02567a-e68f-4921-a8a8-068c1a9b7b9a",
           "Name": "Pacific Dreams （Night）",
@@ -600,6 +701,90 @@
         {
           "ID": "wrld_ef5e1903-f0be-4533-a4cd-821d1094a919",
           "Name": "雨見温泉 Rainy hot spring",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c013701f-6202-43a8-81b4-fd4fc8f8a2cd",
+          "Name": "The Reservoir",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_38646e89-6117-48a9-aab9-aea64c1cd629",
+          "Name": "Transience",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_064509c2-ab42-40a6-83e9-f00d6e8a190c",
+          "Name": "ROYALBLUE [ Night Pool",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b8ae42d2-6449-462e-a211-a665e9d82ce7",
+          "Name": "The Sixth Station",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_194e0785-d085-496a-989f-1a1eae7f4355",
+          "Name": "四水归堂 [Chinese Traditional Courtyard]",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e1d9b9e7-9f4e-4966-b4af-d9d03441cc0f",
+          "Name": "VEIN PRM 25SPerfume",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a0dc3fac-7e31-4186-a09c-1c4449b6c62a",
+          "Name": "残夏 -Late summer-",
           "Description": "Abox",
           "ThumbnailUrl": "",
           "Platform": {
