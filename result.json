@@ -122,6 +122,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f7a383bc-c925-4696-85c2-2996c0a40112",
+          "Name": "Deep Blue",
+          "Description": "海が青い。空が青い。気分は晴れ！-0109-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -227,7 +239,31 @@
         {
           "ID": "wrld_af46b672-1ade-4de9-b4b1-a86f7b79ee90",
           "Name": "波打ち際と",
-          "Description": "波と戯れる浜。",
+          "Description": "波と戯れる浜。-0103-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9684787e-fb70-46ea-874c-545a116430cf",
+          "Name": "SugarLove～ドキドキ相性診断～",
+          "Description": "クイズに答えて二人の相性をみてみよう。-0105-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_50660602-8eee-4a15-82fa-4934c2d26204",
+          "Name": "たびだちのばしょ",
+          "Description": "ポータルとゲームをチルくまとめた場所。ほぼ全てをAIで制作したらしいよ。-0115-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -339,6 +375,18 @@
           "ID": "wrld_02c8ac42-7b6c-4dd1-8a3d-1d12d20cd148",
           "Name": "星降る丘に芽吹くは、忘れられし世界樹 -Forgotten Yggdrasil on the Starry Hill-",
           "Description": "夜空から降ってきた星を集めると…。ファンタジーアイランド。-0012-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4379a37b-53a3-4c03-9818-28cbff44b032",
+          "Name": "みんぞくのだいいどうおー",
+          "Description": "彼らは何の為に何処を目指して歩いているのか。-0105-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1293,6 +1341,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_415ef912-5150-4808-b1ea-4f8ce2432045",
+          "Name": "おまいり Omairi",
+          "Description": "足元に気をつけてお参りください。-0110-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1320,6 +1380,182 @@
           "ID": "wrld_aa870c2b-4599-4f3d-bdbe-f04983e0c108",
           "Name": "幽庵『竹籠』",
           "Description": "竹林の小径を灯りに導かれ進むと、その店はある。",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_43c9cf46-c66c-4e18-98f5-e479e58f99e8",
+          "Name": "漂泊ノ海-Wandering Sea-",
+          "Description": "あのおもい手紙に託して海に置く。そっと。-0108-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win/And｜SCENERY(Landscape/Nature)",
+      "Worlds": [
+        {
+          "ID": "wrld_b5a0fd91-393e-4e11-8497-39bf4f43409c",
+          "Name": "きらめく夜の展望台 -The Shimmering Night Viewpoint-",
+          "Description": "今日は夜景がきれいじゃないか。-0107-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4e944c7e-73de-4114-9de0-b625bd44dcea",
+          "Name": "静かな夜の灯 -Illumination in midnight-",
+          "Description": "イルミネーションのある都会の公園。-0117-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win｜EXPLORE",
+      "Worlds": [
+        {
+          "ID": "wrld_8bc65c2f-70f7-419f-bf49-4a194b842cbe",
+          "Name": "Physically Accurate Black Hole",
+          "Description": "ブラックホールは好きですか？-0111-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win｜PORTAL HUB",
+      "Worlds": [
+        {
+          "ID": "wrld_c0cdd9c1-1cf8-45d2-a35f-eef1a67e3aee",
+          "Name": "Vol.01 愛すべき クセすごワールドポータル - KUSESUGO WORLD PORTAL01",
+          "Description": "クセありすぎなワールドを収集。-0112-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b173f70d-c242-4f9d-b40e-884cd86a8c1d",
+          "Name": "珍ポ - 珍ポータルワールド -",
+          "Description": "変なワールドを収集。決して口にだしてはいけません。黙って飲み込みましょう。-0113-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0654140f-bb41-4b2d-bf79-1869f85b53bc",
+          "Name": "Resereaの写真撮影用ワールドポータル",
+          "Description": "ポータルが並んでいるシンプルなワールド。-0119-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win/And｜PORTAL HUB",
+      "Worlds": [
+        {
+          "ID": "wrld_50660602-8eee-4a15-82fa-4934c2d26204",
+          "Name": "たびだちのばしょ",
+          "Description": "ポータルとゲームをチルくまとめた場所。ほぼ全てをAIで制作したらしいよ。-0114-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c4d0ead5-5e21-4c6f-86bf-35a10a407256",
+          "Name": "Portal Fishing Ruins",
+          "Description": "ポータルを釣り上げてみよう！-0116-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_72c4a3d5-0ec1-448b-a49d-823e2c88437d",
+          "Name": "お砂糖向けポータルワールド「あまあま」",
+          "Description": "ふたりの為のポータルを収集。-0118-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_68bb31aa-f123-4bc1-961d-d35c6304c81c",
+          "Name": "World Repository",
+          "Description": "膨大なワールドが詰まっています。検索もしやすく厳選ワールドが毎月のように追加されていきます。-0120-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e4998032-8505-403e-817a-76bcc5af6816",
+          "Name": "にとポータル -nito portal-",
+          "Description": "厳選されたワールドが多く収納されています。-0121-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6146503d-87d7-4db6-9ab9-d021275f0db7",
+          "Name": "TwinklingStar",
+          "Description": "カウントダウンしています。-0122-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
