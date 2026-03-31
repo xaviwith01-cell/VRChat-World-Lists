@@ -16,6 +16,30 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_58307d27-41ec-4c9a-b531-eba1a7b708ac",
+          "Name": "Moonlit Room",
+          "Description": "月がみえる部屋。",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c8e79147-1a51-4e13-8bc0-2f67887cd91c",
+          "Name": "ほの灯りの涼み部屋",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -144,6 +168,30 @@
           "ID": "wrld_5f268967-1f2b-4ea3-96e2-72207ffebb04",
           "Name": "いなでん公園 Inaden park",
           "Description": "電車は来ない小さな公園。",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a5aa2a46-ab92-42f5-86b3-679323928358",
+          "Name": "Tokyo Subway E06",
+          "Description": "地下鉄。",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_383b3389-cfe0-4367-89df-e05f1cb6eab7",
+          "Name": "TOONHOME",
+          "Description": "Abox",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -488,6 +536,66 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_854020c3-426a-4e55-b36a-65ecbbf5d491",
+          "Name": "夕焼けの帰り道ーOn my way home in the Sunset",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a9da0db1-71f5-42c6-add4-c53e31385534",
+          "Name": "星の巡る丘 ーReー",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1e58287a-7a3b-4959-bcfc-6f77ef7628d9",
+          "Name": "pureness",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_29bbb748-0f3b-4846-897d-2aab1dca831b",
+          "Name": "Still You⁄역전된 수평선",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a91ba5ad-c8ee-45bb-9c3f-d30e72cc42d2",
+          "Name": "遊覧回遊-ゆうらんかいゆう-",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -785,6 +893,102 @@
         {
           "ID": "wrld_a0dc3fac-7e31-4186-a09c-1c4449b6c62a",
           "Name": "残夏 -Late summer-",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9bc0810a-2a9f-48a9-a7a4-d9ef7e5b8b40",
+          "Name": "Lake Hideaway - Night",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_766a157f-ce37-4565-9917-3bc33e487f55",
+          "Name": "Midnight Rest",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_edaa3b0e-c6b7-4b9e-a891-09a89bac4a4c",
+          "Name": "For Her",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_40f1c9b1-8d61-4100-a7d1-2fe39d6d1caf",
+          "Name": "Tropical Resort Act 1",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9ca17fad-6362-4210-bff8-2fa4c3db07e9",
+          "Name": "Romantic moment",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_dd146b02-948b-4da1-b181-618792ff25b9",
+          "Name": "しよ温泉宿ShiyoOnsen",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_99191dfd-f8bb-4742-96c0-81d0536c79b6",
+          "Name": "酔いどれクジラ",
+          "Description": "Abox",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b96c75df-3354-498c-9ad2-94dbb31fe091",
+          "Name": "くゆり ⁄ Kuyuri",
           "Description": "Abox",
           "ThumbnailUrl": "",
           "Platform": {
