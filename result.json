@@ -93,6 +93,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_284e174f-7057-41b3-a427-a4122d11adf7",
+          "Name": "City Pop World",
+          "Description": "こっそり、ぼぉ～と過ごすところ。-0152-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -134,6 +146,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_69e59375-2972-4738-b897-ce871427676f",
+          "Name": "★South Island ~ Gran Lagoon",
+          "Description": "ツリーハウスを巡り、水平線を眺めたら、いよいよ海に潜りましょうか。-0137-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -156,18 +180,6 @@
           "ID": "wrld_c84eaf46-07ec-4d79-8a4c-a64e2d5415c3",
           "Name": "Furality Sylva˸ Treehouse Village",
           "Description": "木の上はみんなで楽しむ場所。迷子に注意。-0008-",
-          "ThumbnailUrl": "",
-          "Platform": {
-            "PC": true,
-            "Android": true,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_5a157006-e16b-4ed8-93d0-2c620e9598c1",
-          "Name": "Attractor",
-          "Description": "20万パーティクルの幾何学模様。見てもよし、さわるとなおよし。カラフルじゃないよ。-0010-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -295,6 +307,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_7c31254c-379f-46d9-8590-4baa7282fdb9",
+          "Name": "Black Hole Particle Toy",
+          "Description": "ブラックホールで遊べる。-0153-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -305,6 +329,59 @@
           "ID": "wrld_c5e6f67c-c2aa-4dbc-86d7-846fcfedbef3",
           "Name": "I feel small",
           "Description": "ここはアリの巣か迷路か。ネオンチック。迷子にならないようにロープを追って。-0009-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_843b56c6-6c63-45fc-99ed-001ba7dde6a5",
+          "Name": "Patriki VR",
+          "Description": "夜の街を探索しよう。454MB-0144-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5f37f2d2-dd6c-45d2-acab-fef101a571d4",
+          "Name": "Particle Playground",
+          "Description": "なんかありそうな雰囲気。-0148-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win/And｜CULTURE",
+      "Worlds": [
+        {
+          "ID": "wrld_5a157006-e16b-4ed8-93d0-2c620e9598c1",
+          "Name": "Attractor",
+          "Description": "20万パーティクルの幾何学模様。見てもよし、さわるとなおよし。カラフルじゃないよ。-0010-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_726ef015-f825-41e7-92bf-024d6d8a4009",
+          "Name": "exhibition ⁄ back seeing",
+          "Description": "裏側の見方展やってます。-01501-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -394,6 +471,18 @@
           "ID": "wrld_12849f9e-07c5-448e-8006-29dc2b75f494",
           "Name": "天の川神社 Charlotte's Celestial Shrine",
           "Description": "盛々遊べる神社。-0123-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6b7ba07f-3b88-48b5-873d-e1d6b9099463",
+          "Name": "星海の祝祭 ～Celestial Sea Festival～",
+          "Description": "船から眺める花火の乱れ打ち。-0139-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1350,6 +1439,30 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5edbc579-61cd-4223-b11f-531b3250014f",
+          "Name": "Midnight Diner",
+          "Description": "普通の居酒屋。-0149-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b2029c0c-7d81-41a6-ad38-18d1807b7152",
+          "Name": "BAROOM",
+          "Description": "昔からある温泉旅館。-0150-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1466,6 +1579,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8e362f79-0a56-4013-8412-3935e3e41d7e",
+          "Name": "最果天元 -キアズマプリズム- XhiasmaPrizm -MemOrigins-",
+          "Description": "どこへいく？-0136-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1560,6 +1685,42 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b8e97f9c-6f89-435c-8dfa-9d06f661476f",
+          "Name": "The Ring System",
+          "Description": "★小惑星が宇宙を舞う。",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_88571e9a-ae04-42ee-a3c9-3be37bf992bf",
+          "Name": "Don't wake me up",
+          "Description": "ピンクとブルーの花の競演。-0143-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a8fce093-ab14-4a53-9291-e396ced1a8b7",
+          "Name": "開闢の報",
+          "Description": "陽光が差し込むのを見る。-0147-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1598,7 +1759,7 @@
         {
           "ID": "wrld_b173f70d-c242-4f9d-b40e-884cd86a8c1d",
           "Name": "珍ポ - 珍ポータルワールド -",
-          "Description": "変なワールドを収集。決して口にだしてはいけません。黙って飲み込みましょう。-0113-",
+          "Description": "変なワールドを収集。-0113-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1709,6 +1870,139 @@
           "Platform": {
             "PC": true,
             "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8dd418ec-8258-4d6b-afc5-c83c938b74c1",
+          "Name": "SANATORIUM",
+          "Description": "海の見える喫茶店。砂浜もいい感じ。-0135-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_7a7a49a7-2ea9-4326-8184-6868d98d6c3e",
+          "Name": "玉響夏祭り",
+          "Description": "どうやら何かのイベント会場らしいよ。-0138-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win｜HOME",
+      "Worlds": [
+        {
+          "ID": "wrld_9c703738-b963-4558-a23c-182f538a7e50",
+          "Name": "RØDREVEN _ Scandinavian Island Home",
+          "Description": "記憶ではトイレが良かった気が…-0140-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win/And｜CHILL(Beach/Ocean)",
+      "Worlds": [
+        {
+          "ID": "wrld_266344c6-e45d-43d7-994d-8c02c9a35438",
+          "Name": "Home of the Islands",
+          "Description": "白い砂浜と青い海とコテージ。そして青い空。-0141-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win｜CULTURE",
+      "Worlds": [
+        {
+          "ID": "wrld_67b96381-eda4-4d4f-963f-433eb067ecca",
+          "Name": "Dangotaso Art Exhibition",
+          "Description": "イラストレーターだんごたそ氏の和風×現代コンセプトの展示",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_20a3beaf-0bfb-4ead-93df-6b150296439c",
+          "Name": "Museum-of-Vrpainting",
+          "Description": "VRらしい立体展示。-0155-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9db596b7-fa52-4f05-9a79-9c7236b713a0",
+          "Name": "現代仮想美術館",
+          "Description": "現代仮想美術館。-0156-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win｜SOCIAL (Cafe/Bar/Restaurant)",
+      "Worlds": [
+        {
+          "ID": "wrld_ab6bb871-1115-482e-bf5c-efca1a16fc31",
+          "Name": "-麗らか- ⁄ URARAKA",
+          "Description": "和のお店。-0146-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win/And｜HANGOUT",
+      "Worlds": [
+        {
+          "ID": "wrld_a42588cd-ce37-4d57-90d6-8048be247b0f",
+          "Name": "Thai Street",
+          "Description": "夜のタイの街並み。-0154-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
             "iOS": false
           },
           "ReleaseStatus": "public"
