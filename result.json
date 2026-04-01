@@ -271,6 +271,30 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_eb090573-7e5c-4c6b-af3c-b7f71df89eb2",
+          "Name": "Miami Beach",
+          "Description": "★マイアミの浜は夕陽にそまる。-0131-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c670c420-f57c-4fbb-b73d-33b6c0d0f9f9",
+          "Name": "The Junkyardǃ",
+          "Description": "★ひとしきり楽しめる個性的な色彩と造形の空間。-0134-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -365,6 +389,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_12849f9e-07c5-448e-8006-29dc2b75f494",
+          "Name": "天の川神社 Charlotte's Celestial Shrine",
+          "Description": "盛々遊べる神社。-0123-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -387,6 +423,66 @@
           "ID": "wrld_4379a37b-53a3-4c03-9818-28cbff44b032",
           "Name": "みんぞくのだいいどうおー",
           "Description": "彼らは何の為に何処を目指して歩いているのか。-0105-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8c5bf139-d180-4c40-a20e-48ad5c9f3b71",
+          "Name": "彩光藤水園 -SAIKO FUJI SUIEN-",
+          "Description": "★藤の花咲く水面にひらく。-0126-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ced685e0-896f-47cf-a93c-db0012753981",
+          "Name": "Healing",
+          "Description": "★VRらしい空間。-0128-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2f591155-7595-4ea7-bd38-4646168fe2fa",
+          "Name": "Particle Rhapsody",
+          "Description": "★カノンのしらべに乗せて…-0130-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_cbc7e100-c554-4898-9f4e-06b4c2594fd1",
+          "Name": "色付く世界 UG_IRO",
+          "Description": "★★★モノクロの世界は次第に色づき四季のうつろいに春を呼ぶ。-0132-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c4d572ac-7f36-4ff7-b0e0-0dc8efdab88d",
+          "Name": "独夜ノクターン -Nocturne in Lonely Night-",
+          "Description": "★★★光が舞うVRの世界。-0133-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1399,6 +1495,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_dd90ce50-43e6-47a2-8cdc-50541f6830f5",
+          "Name": "しらかみ温泉郷",
+          "Description": "★湯けむり漂う風情ある温泉街。-0129-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1421,6 +1529,30 @@
           "ID": "wrld_4e944c7e-73de-4114-9de0-b625bd44dcea",
           "Name": "静かな夜の灯 -Illumination in midnight-",
           "Description": "イルミネーションのある都会の公園。-0117-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f98ef072-86eb-4431-9505-212345650dbb",
+          "Name": "Night Church",
+          "Description": "★★★暗闇に浮かび上がる荘厳な教会。展望台から見下ろす町並みとその姿に息をのむ。-0124-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_77f63ac2-2dcf-49e2-8c7e-9cd1e5011d74",
+          "Name": "Serenity Cove",
+          "Description": "★★★夕陽に染まる南国の地。洞窟探検、灯台、語らい…。-0125-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1560,6 +1692,23 @@
           "Platform": {
             "PC": true,
             "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win｜HANGOUT",
+      "Worlds": [
+        {
+          "ID": "wrld_6caf5200-70e1-46c2-b043-e3c4abe69e0f",
+          "Name": "The Great Pug",
+          "Description": "★日本語が一切ない老舗のバー。-0127-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
