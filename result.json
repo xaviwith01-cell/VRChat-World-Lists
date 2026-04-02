@@ -18,6 +18,18 @@
           "ReleaseStatus": "public"
         },
         {
+          "ID": "wrld_d703eefc-feac-4379-8a76-50d975597ef9",
+          "Name": "Glass",
+          "Description": "このグレイの部屋に何があるというのだ？-0041-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
           "ID": "wrld_58307d27-41ec-4c9a-b531-eba1a7b708ac",
           "Name": "Moonlit Room",
           "Description": "月がみえる部屋。-0065-",
@@ -959,6 +971,18 @@
           "ReleaseStatus": "public"
         },
         {
+          "ID": "wrld_f2013a49-ac57-4684-a36d-39a152ac3917",
+          "Name": "VEINPRM0118",
+          "Description": "砂漠への迷路。-0047-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
           "ID": "wrld_8bc65c2f-70f7-419f-bf49-4a194b842cbe",
           "Name": "Physically Accurate Black Hole",
           "Description": "ブラックホールは好きですか？-0111-",
@@ -1072,16 +1096,28 @@
       ]
     },
     {
-      "Category": "Win/And｜Uncategorized",
+      "Category": "Win｜FANTASY",
       "Worlds": [
         {
           "ID": "wrld_5e5511b0-9ef3-419a-bb5a-aa301089607e",
           "Name": "Aspirla",
-          "Description": "Abox-0037-",
+          "Description": "不思議な世界は花咲く樹の白い間を抜けていく。-0037-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e21275df-de21-4eca-b7aa-f7710cc50278",
+          "Name": "Suspended In Time",
+          "Description": "光が集まる青の世界。-0038-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -1089,23 +1125,11 @@
         {
           "ID": "wrld_c5b8f237-ab8a-4723-a0f6-747b539e49d0",
           "Name": "Breathing",
-          "Description": "Abox-0040-",
+          "Description": "白い扉の向こうにある不思議な世界。-0040-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_d703eefc-feac-4379-8a76-50d975597ef9",
-          "Name": "Glass",
-          "Description": "Abox-0041-",
-          "ThumbnailUrl": "",
-          "Platform": {
-            "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
@@ -1113,27 +1137,56 @@
         {
           "ID": "wrld_91de3840-1b75-4092-b713-39256aa6cace",
           "Name": "Sky Shaft",
-          "Description": "Abox-0045-",
+          "Description": "階段を登ると白い世界が広がった。-0045-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_f2013a49-ac57-4684-a36d-39a152ac3917",
-          "Name": "VEINPRM0118",
-          "Description": "Abox-0047-",
+          "ID": "wrld_f5f95149-efc4-4744-8304-0f63d9ccebe7",
+          "Name": "AZ-01⁄VOID",
+          "Description": "その中で息づいている。-0049-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
-            "Android": true,
+            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
         },
+        {
+          "ID": "wrld_ecc29d21-e4c1-4a4a-ae48-46de7b7bc6b1",
+          "Name": "VR art New place",
+          "Description": "VRらしい光の立体アートの数々。壁の絵が入り口。-0098-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8e362f79-0a56-4013-8412-3935e3e41d7e",
+          "Name": "最果天元 -キアズマプリズム- XhiasmaPrizm -MemOrigins-",
+          "Description": "どこへいく？-0136-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win/And｜Uncategorized",
+      "Worlds": [
         {
           "ID": "wrld_ef5e1903-f0be-4533-a4cd-821d1094a919",
           "Name": "雨見温泉 Rainy hot spring",
@@ -1418,59 +1471,6 @@
           "Platform": {
             "PC": true,
             "Android": true,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        }
-      ]
-    },
-    {
-      "Category": "Win｜FANTASY",
-      "Worlds": [
-        {
-          "ID": "wrld_e21275df-de21-4eca-b7aa-f7710cc50278",
-          "Name": "Suspended In Time",
-          "Description": "光が集まる青の世界。-0038-",
-          "ThumbnailUrl": "",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_f5f95149-efc4-4744-8304-0f63d9ccebe7",
-          "Name": "AZ-01⁄VOID",
-          "Description": "その中で息づいている。-0049-",
-          "ThumbnailUrl": "",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_ecc29d21-e4c1-4a4a-ae48-46de7b7bc6b1",
-          "Name": "VR art New place",
-          "Description": "VRらしい光の立体アートの数々。壁の絵が入り口。-0098-",
-          "ThumbnailUrl": "",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_8e362f79-0a56-4013-8412-3935e3e41d7e",
-          "Name": "最果天元 -キアズマプリズム- XhiasmaPrizm -MemOrigins-",
-          "Description": "どこへいく？-0136-",
-          "ThumbnailUrl": "",
-          "Platform": {
-            "PC": true,
-            "Android": false,
             "iOS": false
           },
           "ReleaseStatus": "public"
