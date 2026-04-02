@@ -129,6 +129,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0c5b4cd0-a2a6-49fd-8c42-4862062b3671",
+          "Name": "rchs_",
+          "Description": "★桜の花が舞う小島の野原。歩けば咲く花。ドアの向こうの夜空に咲く花火。-0149-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -682,6 +694,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_88c5bb1e-29e4-4db3-b5bd-dad9f1da9b75",
+          "Name": "Once upon a time",
+          "Description": "★★写真の思い出絵本。-0150-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1067,7 +1091,7 @@
         {
           "ID": "wrld_cf7f16ed-3bed-4dce-a8cb-d61d402e1b1d",
           "Name": "LAVENDALE",
-          "Description": "ラベンダーとバラの庭園",
+          "Description": "ラベンダーとバラの庭園。-0148-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
