@@ -1017,6 +1017,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ff414a30-31e3-44bb-9c8e-3d721e895b0b",
+          "Name": "Complex 7",
+          "Description": "★★★ロボットの街。-0151-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1927,6 +1939,18 @@
           "ID": "wrld_67b96381-eda4-4d4f-963f-433eb067ecca",
           "Name": "Dangotaso Art Exhibition",
           "Description": "イラストレーターだんごたそ氏の和風×現代コンセプトの展示",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+          "Name": "VR宇宙博物館コスモリア Cosmoria",
+          "Description": "★★★生命から宇宙の博物館。-0152-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
