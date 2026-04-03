@@ -141,6 +141,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2d4c440c-2c20-4d7f-93ce-fce044812722",
+          "Name": "5˸45 PM - TGK x Kevin",
+          "Description": "海を見ながら話は尽きない夜。-0162-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -432,6 +444,30 @@
           "ID": "wrld_c670c420-f57c-4fbb-b73d-33b6c0d0f9f9",
           "Name": "The Junkyardǃ",
           "Description": "★ひとしきり楽しめる個性的な色彩と造形の空間。-0134-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1c335a6f-e7b9-4b6d-bfae-17c455bc2f68",
+          "Name": "おいてけぼりの夏-Summer left behind-",
+          "Description": "夏の想い出。-0155-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f6445b27-037d-4926-b51f-d79ada716b31",
+          "Name": "2000s Classroom",
+          "Description": "★★黒板で遊ぶ。-0161-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -911,6 +947,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f42701e2-b1d9-4edb-a27f-90a627abdd2f",
+          "Name": "Kamakura High School Railroad Crossing",
+          "Description": "鎌倉高校前踏切。-0158-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1104,6 +1152,18 @@
           "ID": "wrld_cf7f16ed-3bed-4dce-a8cb-d61d402e1b1d",
           "Name": "LAVENDALE",
           "Description": "ラベンダーとバラの庭園。-0148-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_13b7f05c-3a1e-4b9e-b57b-f595476c7b1c",
+          "Name": "Yayoi Sunset Bath",
+          "Description": "夕陽に染まる露天風呂。-0154-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1912,6 +1972,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
+          "Name": "新宿ライブストリート ⁄ Shinjuku Live Street",
+          "Description": "あちこちで夜な夜なライブ。-0159-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1955,6 +2027,59 @@
           "Platform": {
             "PC": true,
             "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8e355ba6-d97c-43ec-9fa3-9fb8dfdcd8ab",
+          "Name": "Kitsuneiro Small Exhibition",
+          "Description": "イラスト展示。-0156-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_be82113a-192b-4a81-9c35-36549ffcd4dd",
+          "Name": "Aoyagi Bisen Museum",
+          "Description": "書道アーチスト青柳美扇の美術館。-0157-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b526c3e0-7c32-4774-931e-5dcbdd125794",
+          "Name": "Shader Fes 2021",
+          "Description": "★少し前に戻って当時の先端で遊ぶ。-0160-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Win/And｜CULTURE",
+      "Worlds": [
+        {
+          "ID": "wrld_726ef015-f825-41e7-92bf-024d6d8a4009",
+          "Name": "exhibition ⁄ back seeing",
+          "Description": "展覧会「back seeing」-0153-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
             "iOS": false
           },
           "ReleaseStatus": "public"
