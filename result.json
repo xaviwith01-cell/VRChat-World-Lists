@@ -475,6 +475,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4d223ef5-f089-42d2-a799-7c56e003eded",
+          "Name": "Gallery of Perspectives",
+          "Description": "絵を収集していくとステージが変わる。-0170-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -509,6 +521,18 @@
           "ID": "wrld_843b56c6-6c63-45fc-99ed-001ba7dde6a5",
           "Name": "Patriki VR",
           "Description": "夜の街を探索しよう。454MB-0144-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_40bb51e2-3af7-4b59-96f9-3239f765ef6d",
+          "Name": "Eternal Bloom",
+          "Description": "★★あちこち行ってみる？-0173-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -634,6 +658,18 @@
           "ID": "wrld_6b7ba07f-3b88-48b5-873d-e1d6b9099463",
           "Name": "星海の祝祭 ～Celestial Sea Festival～",
           "Description": "船から眺める花火の乱れ打ち。-0139-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e7ff091d-82d9-4111-bd60-25c237d732af",
+          "Name": "Getaway Chase",
+          "Description": "★追ってくるパトカーを撃って破壊。-0171-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1277,6 +1313,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e80d6680-c71e-492a-a5df-a0bfa0d46327",
+          "Name": "Journey - Chapter01 - Relativity Express",
+          "Description": "★列車は走る。夜の街をぬけていく。-0172-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1570,6 +1618,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_7b5d6275-e654-4838-b614-21568ddf5a08",
+          "Name": "琥珀色ウェーブレット ~Amber Wavelet Kohaku_iro~",
+          "Description": "Nbox-0166-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1854,6 +1914,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b0396e28-6d1c-4b8a-86b6-31b8389154e5",
+          "Name": "Portal Gun",
+          "Description": "ポータル。-0168-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1924,6 +1996,30 @@
           "ID": "wrld_6146503d-87d7-4db6-9ab9-d021275f0db7",
           "Name": "TwinklingStar",
           "Description": "カウントダウンしています。-0122-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_bb6b76c2-d67e-43c8-b268-3b17ff3f79a7",
+          "Name": "幻会ポータルワールド",
+          "Description": "幻会興業のワールドツアーで巡ったワールドを収録。-0163-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9c6ce4a0-f9a0-4adb-914f-584028c2d1b4",
+          "Name": "PortalWorld",
+          "Description": "百鬼 恋花氏が収集。-0167-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -2066,6 +2162,30 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_57d3fc13-46ed-4363-9191-19539d744d75",
+          "Name": "World Museum Portal",
+          "Description": "美術館•博物館を収集。-0164-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1810309c-1a33-4055-b2ed-9d536227d816",
+          "Name": "ギミック展覧会-Red-",
+          "Description": "ギミックを集めた展示場。-0165-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -2076,6 +2196,18 @@
           "ID": "wrld_726ef015-f825-41e7-92bf-024d6d8a4009",
           "Name": "exhibition ⁄ back seeing",
           "Description": "展覧会「back seeing」-0153-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d9b3fd1c-a4ac-4671-8766-17cdb561732a",
+          "Name": "Exhibition ⁄ little traitors",
+          "Description": "★展示会「little traitors」-0169-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
