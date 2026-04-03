@@ -153,6 +153,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6bbec40a-e4c8-45f3-bfec-dc7a91104693",
+          "Name": "くれに寿司 -Sushi Chill-",
+          "Description": "お座敷寿司。-0186-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -487,6 +499,30 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_73924737-be09-42bb-8195-5a55012b34d5",
+          "Name": "Snowfall Cabin",
+          "Description": "★スケートができるキャビン。-0181-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9d3766ec-5936-450f-965b-563b7de36856",
+          "Name": "Family Guy Online",
+          "Description": "★絵本の中にいるような。-0182-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -677,6 +713,30 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_7dad4236-5d3a-4373-aff2-a97dcef95542",
+          "Name": "A World Of My Own",
+          "Description": "★その世界…。-0175-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a922b8e1-2351-4c27-b370-4c7fb5dd79c3",
+          "Name": "AQUA HEAVEN - Waterpark Pool",
+          "Description": "プールワールド。-0189-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -771,6 +831,18 @@
           "ID": "wrld_88c5bb1e-29e4-4db3-b5bd-dad9f1da9b75",
           "Name": "Once upon a time",
           "Description": "★★写真の思い出絵本。-0150-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_980e59b4-9490-4aad-b207-2b0e9771826c",
+          "Name": "Glitter Slime Grove",
+          "Description": "ネオンチックなキノコの広場。-0188-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -995,6 +1067,30 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_16bb1d60-852d-4542-9c99-07e96aa88756",
+          "Name": "Last Generation ⁄ 最後の世代",
+          "Description": "★ポータルから異世代へ。-0174-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d2a71cb5-61f3-4a32-acad-217371bcfe06",
+          "Name": "Villa Nocturna ⁄ 夜光の邸宅",
+          "Description": "オーロラが浮かぶ湖畔の家。-0187-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1060,6 +1156,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1274b2bb-0858-44e7-ad91-e037452a6558",
+          "Name": "旅館「待宵」-inn matuyoi-",
+          "Description": "露天風呂のある旅館。-0190-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1113,6 +1221,54 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9007f730-04d0-4e47-bfae-95f8c8f4e932",
+          "Name": "Pool House - The Baths of Caracalla",
+          "Description": "ローマのカラカラ浴場を再現。迷子に注意。524MB-0178-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_79a7e050-77fb-4f0a-99f7-8aa6912393f7",
+          "Name": "The Orchard",
+          "Description": "近未来的な駅周辺。迷子に注意。-0179-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8b3345f7-e194-4203-86e1-e8a6b3aa5f49",
+          "Name": "A Snowy Day",
+          "Description": "八甲田山体験。-0184-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_810e8291-4c5f-4f84-a0ee-66b3f21fbac1",
+          "Name": "Evergreen Ceremony",
+          "Description": "導かれるままに空を舞って。-0185-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1135,6 +1291,18 @@
           "ID": "wrld_ab6bb871-1115-482e-bf5c-efca1a16fc31",
           "Name": "-麗らか- ⁄ URARAKA",
           "Description": "和のお店。-0146-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_aa87e165-f1ab-43c5-8526-b2653d09a5c5",
+          "Name": "Beijing Streets 西锣鼓巷",
+          "Description": "★食べ物屋さんが並ぶ北京の裏通り。-0191-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1200,6 +1368,30 @@
           "ID": "wrld_13b7f05c-3a1e-4b9e-b57b-f595476c7b1c",
           "Name": "Yayoi Sunset Bath",
           "Description": "夕陽に染まる露天風呂。-0154-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e57aeb35-b904-4f10-9281-b6d3fd218c69",
+          "Name": "Frame",
+          "Description": "所蔵の名画の数々が展示してある美術館。-0180-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_542334f4-de69-4252-867f-4922a61b10d0",
+          "Name": "ASHIBUMI_SNEAKERS",
+          "Description": "靴屋さん。-0183-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1317,7 +1509,7 @@
         {
           "ID": "wrld_e80d6680-c71e-492a-a5df-a0bfa0d46327",
           "Name": "Journey - Chapter01 - Relativity Express",
-          "Description": "★列車は走る。夜の街をぬけていく。-0172-",
+          "Description": "★列車は走る。夜の街をぬけていく。ペンが素敵。-0172-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -2179,6 +2371,30 @@
           "ID": "wrld_1810309c-1a33-4055-b2ed-9d536227d816",
           "Name": "ギミック展覧会-Red-",
           "Description": "ギミックを集めた展示場。-0165-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ab2c1526-c1b1-419d-b138-be32591e799f",
+          "Name": "VRC PIXELART EXHIBITION",
+          "Description": "★★ピクセルアートクラブの展示会。出展の多さに驚愕。-0176-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_eed0e817-8ae7-4435-97c2-3d4c84795d4b",
+          "Name": "Another Day 「PhotoGallery＋」",
+          "Description": "★★ねおぽんず氏のフォトギャラリー。見ごたえあり。-0177-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
