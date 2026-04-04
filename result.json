@@ -52,6 +52,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3b61e4cd-9c6e-4825-9eab-1623a31205ec",
+          "Name": "SkyFall",
+          "Description": "ガーリーな部屋。-0197-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -523,6 +535,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_94028898-f92c-4565-9900-4a676d1bad77",
+          "Name": "VRBricks",
+          "Description": "レゴ。-0204-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -729,7 +753,79 @@
         {
           "ID": "wrld_a922b8e1-2351-4c27-b370-4c7fb5dd79c3",
           "Name": "AQUA HEAVEN - Waterpark Pool",
-          "Description": "プールワールド。-0189-",
+          "Description": "立体プール、流れるプール。-0189-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b17a31d3-facd-4593-a4f1-e41e6957bcf9",
+          "Name": "Twin Spire Village",
+          "Description": "高い岩山のロープウェイ。-0193-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d67a897d-454e-43f1-be0c-a511ee95beab",
+          "Name": "AZURE Nature remastered 5.0",
+          "Description": "秋の草原。-0195-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0518a6c4-c2d9-4efb-8f57-0299d52f5c3b",
+          "Name": "Dragon Island",
+          "Description": "ドラゴンに乗って空を飛ぶ。-0196-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3090a85a-abba-4c04-8dea-e54ede2eb47e",
+          "Name": "出立の際には",
+          "Description": "モノクロの世界が色を持つ。-0202-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9db596b7-fa52-4f05-9a79-9c7236b713a0",
+          "Name": "現代仮想美術館",
+          "Description": "動画を先に観てから入るらしい。-0205-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b8cb017b-5799-443e-ba12-0944371c84bb",
+          "Name": "Take My Hand",
+          "Description": "ローポリ村を飛び回る。-0206-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -850,6 +946,30 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_fbb77316-a301-499b-a4f6-5f676c5a1b08",
+          "Name": "Crystal Nest",
+          "Description": "洞窟に咲く花。-0194-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0dc0bbb1-51fb-4096-bc70-8d96eebdb101",
+          "Name": "Imperfect Blue",
+          "Description": "★★パステルの平原。Shopow-0199-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -930,6 +1050,18 @@
           "ID": "wrld_9c703738-b963-4558-a23c-182f538a7e50",
           "Name": "RØDREVEN _ Scandinavian Island Home",
           "Description": "記憶ではトイレが良かった気が…-0140-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_56452fb0-754d-4601-9b32-9fffa2570419",
+          "Name": "Snowpeak Retreat",
+          "Description": "雪深い家。-0207-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1084,6 +1216,54 @@
           "ID": "wrld_d2a71cb5-61f3-4a32-acad-217371bcfe06",
           "Name": "Villa Nocturna ⁄ 夜光の邸宅",
           "Description": "オーロラが浮かぶ湖畔の家。-0187-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_204f0c4a-e0d2-46c9-a09f-4b19d7b5b628",
+          "Name": "Sylvarium",
+          "Description": "★★雪景色がきれいなログハウス。-0192-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d3d57e4a-9e3f-47d3-8a62-d5facd86e415",
+          "Name": "Secret Cove Home",
+          "Description": "★滝。",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2f60b950-7d4b-460a-816b-16a86a4a466f",
+          "Name": "A-Ruins AREA",
+          "Description": "木々から差し込む陽光の小径。-0201-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3175143d-3c68-4719-9297-5f0145e059e2",
+          "Name": "Lost Valley Lake Retreat",
+          "Description": "自然いっぱい。-0209-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1269,6 +1449,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c3e69a3a-508d-48e0-9289-0472b898804c",
+          "Name": "Magic Heist",
+          "Description": "★★★冒険の旅。Fins-0198-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1367,7 +1559,7 @@
         {
           "ID": "wrld_13b7f05c-3a1e-4b9e-b57b-f595476c7b1c",
           "Name": "Yayoi Sunset Bath",
-          "Description": "夕陽に染まる露天風呂。-0154-",
+          "Description": "大海原で夕陽に染まる。-0154-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1510,6 +1702,18 @@
           "ID": "wrld_e80d6680-c71e-492a-a5df-a0bfa0d46327",
           "Name": "Journey - Chapter01 - Relativity Express",
           "Description": "★列車は走る。夜の街をぬけていく。ペンが素敵。-0172-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_10a90b49-97fd-44cd-811e-9905f9e3cc93",
+          "Name": "守られる約束",
+          "Description": "海に浮かぶもの。",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -2289,6 +2493,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1c335a6f-e7b9-4b6d-bfae-17c455bc2f68",
+          "Name": "おいてけぼりの夏-Summer left behind-",
+          "Description": "大海原に浮かぶ白いホテル。-0212-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -2322,7 +2538,7 @@
         {
           "ID": "wrld_8e355ba6-d97c-43ec-9fa3-9fb8dfdcd8ab",
           "Name": "Kitsuneiro Small Exhibition",
-          "Description": "イラスト展示。-0156-",
+          "Description": "立体イラスト展示。-0156-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -2402,6 +2618,30 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_20a3beaf-0bfb-4ead-93df-6b150296439c",
+          "Name": "Museum-of-Vrpainting",
+          "Description": "★せきぐちあいみのVRらしいインタラクティブ美術館。-0208-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0ab57861-abb2-4802-8783-4ae089ea268b",
+          "Name": "Spatialography",
+          "Description": "立体写真の美術館。588MB-0210-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -2424,6 +2664,18 @@
           "ID": "wrld_d9b3fd1c-a4ac-4671-8766-17cdb561732a",
           "Name": "Exhibition ⁄ little traitors",
           "Description": "★展示会「little traitors」-0169-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d9b3fd1c-a4ac-4671-8766-17cdb561732a",
+          "Name": "Exhibition ⁄ little traitors",
+          "Description": "展示会「小さな裏切り者たち」-0211-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
