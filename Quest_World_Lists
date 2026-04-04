@@ -1,0 +1,137 @@
+{
+  "ReverseCategorys": false,
+  "ShowPrivateWorld": false,
+  "Categorys": [
+    {
+      "Category": "A「眺」風景•景色•情景",
+      "Worlds": [
+        {
+          "ID": "wrld_563a8a0b-d5d4-461e-927b-4dc6a9fd6ec8",
+          "Name": "Fireworks By The Lake 2.0",
+          "Description": "夜空のキャンパスに描かれる大輪の花。繊細に華麗にきらめき散るひかりのシャワー。自ら手に持つ華麗な花火、打ち上げ花火。こんなにも素敵な花火が見られる喜びをぜひ。-A0001-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_7f3a6077-0183-4097-a837-f59e3f9d4a16",
+          "Name": "Pepiement",
+          "Description": "人いきれを避け、渋谷の街を後にした。ガード下をくぐり抜ける。あ！海だ！！！え？海？？？-A0002-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_76b7fb21-1a84-4b49-bb04-f4510d03a358",
+          "Name": "JAPAN STREET QUEST",
+          "Description": "改札口を出ると、よくある駅前にでた。-A0003-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6a747546-1cee-4b60-b5ea-1c3d4d2ab501",
+          "Name": "8-bit Cyberpunk Junction",
+          "Description": "-A0004-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8c5bf139-d180-4c40-a20e-48ad5c9f3b71",
+          "Name": "彩光藤水園 -SAIKO FUJI SUIEN-",
+          "Description": "-A0005-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_73b3dc87-524a-4dab-9a0f-5b9132f163bc",
+          "Name": "クラゲがふわふわするだけ UG_FWFW",
+          "Description": "-A0006-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_72d30ea1-5994-443b-8869-9f419e45e559",
+          "Name": "Sunset Isles",
+          "Description": "-A0007-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "B「魅」非現実•仮想世界•Particle Live",
+      "Worlds": [
+        {
+          "ID": "wrld_f5dd279b-72fa-4b4b-abb8-b46e4b0e1d78",
+          "Name": "Furality Aqua˸ The Oceans of Luma",
+          "Description": "-B0008-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3dcabc45-b66b-4d38-abaa-d2922ca4d678",
+          "Name": "Beyond a bit - 想像のちょっと先へ",
+          "Description": "-B0009-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7",
+          "Name": "Astral Bounds",
+          "Description": "-B0010-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    }
+  ],
+  "Roles": []
+}
