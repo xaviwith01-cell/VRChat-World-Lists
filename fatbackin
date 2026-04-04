@@ -1,0 +1,24 @@
+{
+  "ReverseCategorys": false,
+  "ShowPrivateWorld": false,
+  "Categorys": [
+    {
+      "Category": "XーZ列を書き換える",
+      "Worlds": [
+        {
+          "ID": "wrld_fc4ab70f-ba1b-46d0-8659-1c0a830da5b5",
+          "Name": "City Pop JP",
+          "Description": "★★★こんなに素晴らしいワールドがあったろうか。嬉しくて涙がとまらない！",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    }
+  ],
+  "Roles": []
+}
