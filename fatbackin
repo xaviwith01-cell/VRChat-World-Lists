@@ -18,6 +18,599 @@
           "ReleaseStatus": "public"
         }
       ]
+    },
+    {
+      "Category": "Default",
+      "Worlds": [
+        {
+          "ID": "wrld_e9cb938e-91cd-4569-bb3b-325938dd5633",
+          "Name": "忘却",
+          "Description": "-0002-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8e909dbd-c6a7-4c64-af16-818161a0eceb",
+          "Name": "VRbomber",
+          "Description": "-0003-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e070034f-da8c-4b00-b0f7-1fc66cf85d02",
+          "Name": "Magnetize",
+          "Description": "-0004-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4ab6fd77-f4e7-4fcc-9153-b0988c6019f4",
+          "Name": "Poolroom Madness",
+          "Description": "-0005-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_7ef54852-7894-46e4-9935-7dacb78f81c5",
+          "Name": "Jetski Islet",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e9c38ee6-b095-4431-b9f4-e95429a18876",
+          "Name": "STRANGEWAYS",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f4f78007-e75d-4228-9320-ea304237553b",
+          "Name": "キャンユースピークイングリッシュ？",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_236bb7cd-dca2-44a2-9542-3b965e15d37d",
+          "Name": "RESONARK 4 ELVES Pt.1 - v4.1.11",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9c29196c-9375-44a7-8741-b5a14285ddcf",
+          "Name": "Rigged 3D Scanned Avatars",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f0dad7fa-f347-4676-9d7f-5fd10101da9a",
+          "Name": "ShadowCraft",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6642e15f-97b3-40e6-ba62-ee7dad48ded4",
+          "Name": "G-SHOCK THE RIDE",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_7a092275-aa12-46ef-9a53-c1d21968eda6",
+          "Name": "謎解き「灯台島からの脱出」",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6075be77-2fa3-44c2-8204-95905bb3fd53",
+          "Name": "MyAvatarGoods",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_458eb373-50e5-4f79-a08a-a7af67e93c6f",
+          "Name": "Magic AI-Art˸ Dimensions",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0ccde669-6993-448e-b460-b47f6f0abbd9",
+          "Name": "Daytona USA VR （Advanced）",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_793f88dd-227b-4f1b-aea7-f4342c5bb66d",
+          "Name": "Liminal Hotel",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0097c2e4-634a-445b-a43d-9585cb6df959",
+          "Name": "Smew Brushǃ",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_77f63ac2-2dcf-49e2-8c7e-9cd1e5011d74",
+          "Name": "Serenity Cove",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8a3737fe-a5c8-45ed-ab5c-76f1b4a3885e",
+          "Name": "The Blender～桔梗ちゃんにミキサーで粉々にされるワールド～",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ddc67c04-b09c-4e3b-b470-bf79e3caeb7a",
+          "Name": "Space and Chill",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e3b20da4-81a9-4fda-abdb-032cbc615351",
+          "Name": "やばらす",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2142ea4d-3faf-49af-8cb1-392fcbf013cc",
+          "Name": "SARUSHIMA WORLD（メタバースヨコスカ）",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_56dcd7bb-bfcd-44ab-ba42-e037b2e8cefb",
+          "Name": "The Ink Room",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3b7c002d-a027-40c2-af39-e5ec9bddb3f0",
+          "Name": "Star Size Comparison",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_57b3594c-e9c4-4bd4-921a-839f0d88c696",
+          "Name": "Falling Platforms Game",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f4b66402-33a1-4ccb-800b-585e3cc08b9f",
+          "Name": "合体オモロワード",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_99924ad6-6bb9-479c-8835-282f0a634f60",
+          "Name": "[JP]NDC Library",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_61df6fc2-d6e8-4a62-910b-c2558731c4bb",
+          "Name": "Comfy Puzzles - Jigsaw ＆ Chill",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_27bcac0c-d160-40c6-b02e-1efbf79ce3e6",
+          "Name": "朝配信振り返りワールド",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_00cd9136-4c67-4079-9a59-7e31244ace9a",
+          "Name": "Bejeweled VRC",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f98ef072-86eb-4431-9505-212345650dbb",
+          "Name": "Night Church",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_05b3bfdf-f77b-4220-8b02-124799bad999",
+          "Name": "Ἀνάμνησις",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_bc1be647-729f-4187-b284-463f7d55f274",
+          "Name": "謎解きワールド『Solution』",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a23a67da-4dd8-4d26-ab3f-0ae870d990d6",
+          "Name": "mmd home",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_75300caf-2c85-49f2-a027-befbcbbca68a",
+          "Name": "Optical Illusion 変身立体",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_663166d0-5e80-4643-9746-93b9558b89d1",
+          "Name": "Animation Live ＂Escape＂",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1c421ebe-2c92-479f-8242-26d3aceb13ba",
+          "Name": "CoinAmusement by UdonChips",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c9bfed33-f3e7-413d-95bc-c179c8e95d4f",
+          "Name": "クエポスタ - モバイル対応イベントポスター掲載所",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5992ac87-4df8-4fb5-8a6c-e29688135aca",
+          "Name": "Into the Unknown",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7",
+          "Name": "Astral Bounds",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f382fbdc-f3a5-47c5-bfae-e339eb615c0c",
+          "Name": "台車クラフトパーク -CART CRAFT PARK-",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_eeae4d69-26e5-4670-a2d7-936ac4088698",
+          "Name": "Fog in the Key Hole [ESCAPE ROOM]",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2fc4a694-0744-415c-a25d-54db5e1a477b",
+          "Name": "Let's Daifugo （大富豪）",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3c48ab51-666c-402c-9627-ccab0687aef2",
+          "Name": "Steam Frame Preview Experience",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ab973faf-8899-4302-9aa4-8493be31eec2",
+          "Name": "第八展示室 -The Eighth Exhibition Room -",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4eb63979-b81d-437f-9993-2f2fcaec8b62",
+          "Name": "Yahtzee Bar",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6efb5789-ba20-407b-bc1e-94e287fd646b",
+          "Name": "ユーロアの隠れ家【集会・大会用】",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_50caf7f5-4204-4bce-a606-7ce850479111",
+          "Name": "パフパフギミック体験ワールド",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2dd918d5-8346-49f7-88d7-24c8d8356a68",
+          "Name": "アハ体験｜Aha experience",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
     }
   ],
   "Roles": []
