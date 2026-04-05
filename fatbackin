@@ -3,7 +3,7 @@
   "ShowPrivateWorld": false,
   "Categorys": [
     {
-      "Category": "XーZ列を書き換える",
+      "Category": "未分類",
       "Worlds": [
         {
           "ID": "wrld_fc4ab70f-ba1b-46d0-8659-1c0a830da5b5",
@@ -16,12 +16,7 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
-        }
-      ]
-    },
-    {
-      "Category": "Default",
-      "Worlds": [
+        },
         {
           "ID": "wrld_e9cb938e-91cd-4569-bb3b-325938dd5633",
           "Name": "忘却",
