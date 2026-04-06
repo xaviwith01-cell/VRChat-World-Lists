@@ -32,7 +32,7 @@
         {
           "ID": "wrld_76b7fb21-1a84-4b49-bb04-f4510d03a358",
           "Name": "JAPAN STREET QUEST",
-          "Description": "改札口を出ると、よくある駅前にでた。-A0003-",
+          "Description": "改札口を出ると、よくある駅前の風景に出会う。路面電車に乗り込む。バスに乗る。車でドライブ。海で遊び山に登る。夜のとばりが降りる頃、見知らぬ町の小さな旅は終わりを告げた。-A0003-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -44,7 +44,7 @@
         {
           "ID": "wrld_6a747546-1cee-4b60-b5ea-1c3d4d2ab501",
           "Name": "8-bit Cyberpunk Junction",
-          "Description": "-A0004-",
+          "Description": "８ビットのドット絵ビーチ。テラスから海を眺める。いつしか、あの頃のゲームの世界にアリスのように。-A0004-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -56,7 +56,7 @@
         {
           "ID": "wrld_8c5bf139-d180-4c40-a20e-48ad5c9f3b71",
           "Name": "彩光藤水園 -SAIKO FUJI SUIEN-",
-          "Description": "-A0005-",
+          "Description": "色とりどりの藤の花。咲いたり消えたりと。水面に映るその姿。妖艶に華麗に包み込む。-A0005-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -68,7 +68,7 @@
         {
           "ID": "wrld_73b3dc87-524a-4dab-9a0f-5b9132f163bc",
           "Name": "クラゲがふわふわするだけ UG_FWFW",
-          "Description": "-A0006-",
+          "Description": "みんな大好きクラゲがプカプカ。あちらにもこちらにも。手に取りクルクル回したり。貝に座って眺めたり。-A0006-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -80,7 +80,7 @@
         {
           "ID": "wrld_72d30ea1-5994-443b-8869-9f419e45e559",
           "Name": "Sunset Isles",
-          "Description": "-A0007-",
+          "Description": "真っ赤に染める夕陽を浴びて。砂浜を走る君追いかけて。転んで笑った笑顔のシルエット。とても似合い過ぎて。振り向いた君の頬に思わずKISS★-A0007-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -97,7 +97,7 @@
         {
           "ID": "wrld_f5dd279b-72fa-4b4b-abb8-b46e4b0e1d78",
           "Name": "Furality Aqua˸ The Oceans of Luma",
-          "Description": "-B0008-",
+          "Description": "ネオンライクな木々や花々が咲く中をサイケな魚たちが泳ぐ不思議な世界。蛇行しながら川が遠くまで山脈を縫って流れる。沸き立つ気流に乗り高く舞い上がろう。-B0007-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -109,7 +109,7 @@
         {
           "ID": "wrld_3dcabc45-b66b-4d38-abaa-d2922ca4d678",
           "Name": "Beyond a bit - 想像のちょっと先へ",
-          "Description": "-B0009-",
+          "Description": "鍵穴に鍵を差し込む。一筋の光が天から降りてきた。それは壮大なドラマのプロローグであった。-B0009-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -121,7 +121,7 @@
         {
           "ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7",
           "Name": "Astral Bounds",
-          "Description": "-B0010-",
+          "Description": "★★★★★ クリスタルを手にしたあなたは三度鐘を鳴らす。海の底、紫のドアの向こうにある世界とは。壮大なスケールで繰り広げられるスぺく足るワールド。その全てがQuestワールドを超えています。ぜひ、ご体験ください。-B0010-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
