@@ -547,6 +547,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_701df242-4681-43d8-a1e2-0a90fe53c5fb",
+          "Name": "さくらこうえん -Sakura Park-",
+          "Description": "幼稚園児がついてくるやつ-0214-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -833,6 +845,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3e49e7c3-da21-4239-bbfa-949363feabb8",
+          "Name": "Realtime Space Elevator",
+          "Description": "宇宙に届くエレベーターシステム。-0216-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -1091,6 +1115,18 @@
           "ID": "wrld_d59c8c7d-69a9-48d3-a6f2-f67d0414bb83",
           "Name": "WELL  井戸",
           "Description": "井戸の中。-0036-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0aed64fa-b806-4278-aed5-0e34ce3ca2f1",
+          "Name": "BLUMEA...",
+          "Description": "宇宙アニメーション。宇宙ステーションから観る。2025年話題作。-0215-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -1454,6 +1490,18 @@
           "ID": "wrld_c3e69a3a-508d-48e0-9289-0472b898804c",
           "Name": "Magic Heist",
           "Description": "★★★冒険の旅。Fins-0198-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b0396e28-6d1c-4b8a-86b6-31b8389154e5",
+          "Name": "Portal Gun",
+          "Description": "入り口と出口のガンを持ってあちこちに行くゲーム。-0213-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
@@ -2416,6 +2464,18 @@
           "ID": "wrld_9c6ce4a0-f9a0-4adb-914f-584028c2d1b4",
           "Name": "PortalWorld",
           "Description": "百鬼 恋花氏が収集。-0167-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_bb6b76c2-d67e-43c8-b268-3b17ff3f79a7",
+          "Name": "幻会ポータルワールド",
+          "Description": "ワールドツアーイベントのアーカイブ。-0217-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": true,
