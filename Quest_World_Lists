@@ -129,6 +129,54 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6cc43af9-8a9a-4b40-8e4b-daf23d3649ad",
+          "Name": "Isolated Towers - 隔離の塔",
+          "Description": "そこにあるのは漆黒に浮かぶ塔。君はそこで何を思うのか。立ち止まってる暇はない。さぁ、行き先を決め階段をただただ歩き続けよう。-B0011-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_fc3b7cd5-4d7e-41c4-9029-cb7d4943e27f",
+          "Name": "Trees Of Diaspora - 播種の樹",
+          "Description": "その樹には種が宿り、新たな世界が産まれる、妖艶に立つ姿は妖しくもあり誇らしげでもある。そして播種の機を待つ。-B0012-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c00d3ef8-cdb6-40ad-88e2-cce67d0ef14f",
+          "Name": "Steps of the Campanula - カンパニュラの足音",
+          "Description": "カンパニュラ。キキョウ科のその植物の和名は風鈴草、釣鐘草。その花言葉は「感謝」「誠実」、そして「後悔」。清楚なその姿には秘めたる思いがあるようだ。-B0013-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9571ca2a-6953-4c2b-830e-1c8efed4a4c1",
+          "Name": "ひかりのあるところ ⁄ Tree of Shine",
+          "Description": "白と黒の世界なのに、どうして、こんなにも安らかな気持ちになれるのだろう。浮かびあがる生命の力つよさ。ゆったりと光が流れ、静かに時も流れる。※ワールド音量を半分にして下さい。-B0014-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     }
