@@ -177,6 +177,18 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_cbc7e100-c554-4898-9f4e-06b4c2594fd1",
+          "Name": "色付く世界 UG_IRO",
+          "Description": "モノクロの世界が彩りを取り戻す時、季節ごとに花を添える。春の桜が咲き誇り、手にしたランタンで花弁を散らす。季節を巡り精霊達の祝福を受けてなお、これぞとばかりに四季を謳歌する。坂道を駆け上がり月で必ず逢いましょう。-B0015-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     }
