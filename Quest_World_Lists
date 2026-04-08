@@ -189,6 +189,66 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_be87335f-65b0-448f-bdd0-a91b40fc41c9",
+          "Name": "星屑ノ街-City of stardust-",
+          "Description": "海を走る列車から物語は始まる。駅に着く。塔に登る。街を散策。海から眺める。何処にカメラを向けても画になる。そんなワールドは珍しい。-B0016",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ced685e0-896f-47cf-a93c-db0012753981",
+          "Name": "Healing",
+          "Description": "入った途端、目に飛び込んでくる世界に飲み込まれてしまいます。これぞVR！と言うにふさわしいワールド。無邪気にそしてのんびりとお過ごし下さい。-B0016-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c4d572ac-7f36-4ff7-b0e0-0dc8efdab88d",
+          "Name": "独夜ノクターン -Nocturne in Lonely Night-",
+          "Description": "★★揺れ動く僕の心。これは虚構、これは現実。噛み締めたくもない喧騒。ただここに居て。静かに耳を澄ませ。安らかに独り調べに身を委ね。-B0018-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_04401750-248d-45a5-94ed-d699a221d83a",
+          "Name": "Daydream Castle",
+          "Description": "夢がカタチになった時。城まで階段を駆け上り。高く飛び跳ね 宙を舞う。あの日のアノトキに出会う為に。-B0019-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3bc7e265-5ef8-4d87-b9a5-cabc23c33a5a",
+          "Name": "ELYSIUM ｜ EOL",
+          "Description": "その不思議な空間はいきなり現れる。月明かりに照らされ巨大な花々が水面に映る。ここは神の湖。心は宙に浮き、水に揺れ。安らかに過ごすところ。ELYSIUM：ギリシャ神話で神々に愛された。人々が死後に幸福な生活を送るところ。-B0020-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     }
