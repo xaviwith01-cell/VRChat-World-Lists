@@ -140,7 +140,7 @@
         {
           "ID": "wrld_6642e15f-97b3-40e6-ba62-ee7dad48ded4",
           "Name": "G-SHOCK THE RIDE",
-          "Description": "-0012-",
+          "Description": "G-SHOCKに乗って、耐久テストの旅へ。カシオ公式ワールド。-0012-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -200,7 +200,7 @@
         {
           "ID": "wrld_793f88dd-227b-4f1b-aea7-f4342c5bb66d",
           "Name": "Liminal Hotel",
-          "Description": "-0017-",
+          "Description": "広大なホテルに散らばった全16個のジェムを集めて、クリアを目指そう！-0017-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -488,7 +488,7 @@
         {
           "ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7",
           "Name": "Astral Bounds",
-          "Description": "",
+          "Description": "IWAZUMOGANA.-0041-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -500,7 +500,7 @@
         {
           "ID": "wrld_f382fbdc-f3a5-47c5-bfae-e339eb615c0c",
           "Name": "台車クラフトパーク -CART CRAFT PARK-",
-          "Description": "",
+          "Description": "-0042-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -512,7 +512,7 @@
         {
           "ID": "wrld_eeae4d69-26e5-4670-a2d7-936ac4088698",
           "Name": "Fog in the Key Hole [ESCAPE ROOM]",
-          "Description": "",
+          "Description": "-0043-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -524,7 +524,7 @@
         {
           "ID": "wrld_2fc4a694-0744-415c-a25d-54db5e1a477b",
           "Name": "Let's Daifugo （大富豪）",
-          "Description": "",
+          "Description": "-0044-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -536,7 +536,7 @@
         {
           "ID": "wrld_3c48ab51-666c-402c-9627-ccab0687aef2",
           "Name": "Steam Frame Preview Experience",
-          "Description": "",
+          "Description": "話題のVRゴーグル「Steam Frame」を先行体験できる！？-0045-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -548,7 +548,7 @@
         {
           "ID": "wrld_ab973faf-8899-4302-9aa4-8493be31eec2",
           "Name": "第八展示室 -The Eighth Exhibition Room -",
-          "Description": "",
+          "Description": "-0046-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -560,7 +560,7 @@
         {
           "ID": "wrld_4eb63979-b81d-437f-9993-2f2fcaec8b62",
           "Name": "Yahtzee Bar",
-          "Description": "",
+          "Description": "-0047-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -572,7 +572,7 @@
         {
           "ID": "wrld_6efb5789-ba20-407b-bc1e-94e287fd646b",
           "Name": "ユーロアの隠れ家【集会・大会用】",
-          "Description": "",
+          "Description": "-0048-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -584,7 +584,7 @@
         {
           "ID": "wrld_50caf7f5-4204-4bce-a606-7ce850479111",
           "Name": "パフパフギミック体験ワールド",
-          "Description": "",
+          "Description": "-0049-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -596,7 +596,7 @@
         {
           "ID": "wrld_2dd918d5-8346-49f7-88d7-24c8d8356a68",
           "Name": "アハ体験｜Aha experience",
-          "Description": "-0050-",
+          "Description": "貴方に違いが分かるかしら？-0050-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
