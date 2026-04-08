@@ -1,0 +1,24 @@
+{
+  "ReverseCategorys": false,
+  "ShowPrivateWorld": false,
+  "Categorys": [
+    {
+      "Category": "未分類",
+      "Worlds": [
+        {
+          "ID": "wrld_fc4ab70f-ba1b-46d0-8659-1c0a830da5b5",
+          "Name": "City Pop JP",
+          "Description": "★★★ここは差し替えてね。右の数字は入れた方がいいよ。-0001-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    }
+  ],
+  "Roles": []
+}
