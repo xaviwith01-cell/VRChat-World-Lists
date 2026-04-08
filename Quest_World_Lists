@@ -503,6 +503,83 @@
           "ReleaseStatus": "public"
         }
       ]
+    },
+    {
+      "Category": "C「戯」Cill•部屋•Adventure•体験•V睡",
+      "Worlds": [
+        {
+          "ID": "wrld_d9d91fd7-997e-4fa3-8af2-539f6f1a4e6a",
+          "Name": "Beach Party",
+          "Description": "今日は何の日。きっと誰かの誕生日。そうでなくてもウキウキ気分。今夜は朝まで騒ごうぜ。-C0042-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1051d8dc-7caf-4a1b-ba98-5e6a60f489ca",
+          "Name": "澄夏町学校 プール開放日 -School Swimming Pool in Summer-",
+          "Description": "夏休みの陽がキラリと水しぶきに跳ね返る。久々に会った友が違う人に見えた午後。はしゃぐ声が青い空に吸い込まれた。-C0043-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a9328956-ee21-4491-bf35-e79c24e9aa2e",
+          "Name": "king arthurs island from altspace",
+          "Description": "ドラゴンが空をはばたき、夕空を怪しい色に染めあげる。この島のあちらこちらには新たな発見がある。古城、滝、小島と散策するには充分。森林を歩くのも、空をとんでいくのも良い。-C0044-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_7abeb1c3-6181-4153-b718-6f35de7dbba5",
+          "Name": "Underwater Secret Base ～海中の秘密基地～",
+          "Description": "青く輝く海の中。魚に誘われ泳いでみれば、赤や緑の森の中。海藻ゆれる宮殿で、やっと見つけた、キラキラ光る宝物。-C0045-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_806cb5ed-39e8-4622-9a70-becbe9f7677f",
+          "Name": "さや温泉 -Saya Onsen-",
+          "Description": "きちんと参れば現れる。二礼二拍手一礼。さくらの舞や不思議なことたくさん。温泉につかり心ほっこり。洞窟の中もよきよき。-C0046-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5703e0e9-9f35-4787-af47-014cb79152b6",
+          "Name": "Sky Sailing",
+          "Description": "小さな舟だが、必要なものはすべて揃っている。実に快適だ。朝目覚め、屋根から飛び立ち青空散歩するのが日課になった。-C0047-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
     }
   ],
   "Roles": []
