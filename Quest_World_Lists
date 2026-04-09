@@ -578,6 +578,249 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c61f5f8d-a74c-499c-9453-393717a00189",
+          "Name": "放課後階段Quest-kaidan-",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c5f7a361-e3d9-4266-89b4-1024fc39328b",
+          "Name": "Carrot Palace ＆ avatar",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "D「歓」飲食•繁華街•喫茶•Bar",
+      "Worlds": [
+        {
+          "ID": "wrld_6bda8294-8f85-4a3b-a6e4-4ecc69250b12",
+          "Name": "MOS BURGER ON THE MOON",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4cdf3215-e7e6-475d-aebe-ef605d320119",
+          "Name": "【JP】Qじゃぱん横丁 -Q Japan Street-",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_cd56426f-8fa4-4509-8154-e19eb8603385",
+          "Name": "瓶中駅前地下街 -Binnaka Chikagai-",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b8cbc920-bb6a-49d6-a2e0-5de5213ffc85",
+          "Name": "ぶいあ～る横丁-VR Yokocho-",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "E「観」美術•Gallery•博物館•遊園地•水族館•写真展",
+      "Worlds": [
+        {
+          "ID": "wrld_9437a214-17c5-4e3f-93d4-42d46bdddf4b",
+          "Name": "80's music cafe",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b2e8bfec-3acb-4025-a6f0-02bba648328e",
+          "Name": "岩手県大槌町 震災復興記録写真展示室 （Photo Gallery of Otsuchi Town）",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1794a017-c5b1-4c64-93dd-2c8534fc5ca8",
+          "Name": "T-Rex Penny Exhibit",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3cae169b-aacd-4a07-8a21-ad055f5e63f2",
+          "Name": "ある旅人の記憶 Ver.2",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1e220089-1cc1-4894-9322-25acda76dc55",
+          "Name": "ICHIRO TSURUTA VR MUSEUM",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0c0330e1-2bca-424d-a052-a8180f8f46ff",
+          "Name": "City Pop Records シティ・ポップ",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_39808c25-82c6-4d05-bfb0-18db22a319b7",
+          "Name": "Azuma Row House 住吉の長屋",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "F「乗」航空機•船舶•宇宙船•乗り物",
+      "Worlds": [
+        {
+          "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
+          "Name": "VR Narita Airport《NRT⁄RJAA》",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_40c04871-dd5f-411e-9d3c-d9ec97b8b9cb",
+          "Name": "VR Matsumoto airport《RJAF》《MMJ》",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_7350258e-4c9c-4b92-b404-3ce6f3db5f18",
+          "Name": "PrimaryGliders",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4e757305-d115-4de3-91cf-cf9facc6836f",
+          "Name": "Boaty McFloat Trip",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6fc1b4d9-262d-4026-b5f1-eab67ef191ff",
+          "Name": "Downhill SkateBoarding",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
+          "Name": "Test Pilots",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     }
