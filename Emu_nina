@@ -3,12 +3,12 @@
   "ShowPrivateWorld": false,
   "Categorys": [
     {
-      "Category": "未分類",
+      "Category": "Chill",
       "Worlds": [
         {
-          "ID": "wrld_fc4ab70f-ba1b-46d0-8659-1c0a830da5b5",
-          "Name": "City Pop JP",
-          "Description": "★★★ここは差し替えてね。右の数字は入れた方がいいよ。-0001-",
+          "ID": "wrld_f33d809d-12b5-43a3-98a3-27c5f5add919",
+          "Name": "Meadow Cottage",
+          "Description": "Chill World",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
