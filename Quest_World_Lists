@@ -582,7 +582,7 @@
         {
           "ID": "wrld_c61f5f8d-a74c-499c-9453-393717a00189",
           "Name": "放課後階段Quest-kaidan-",
-          "Description": "",
+          "Description": "よくある学校の階段。休み時間にちょこっと雑談。1MBを切る軽さはとても快適。Quest発売の2019年にテストであげたワールド。明るくて必要なものは揃っており、ちょっとした待ち合わせや退避、おしゃべりに最適です。-C0050-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -594,7 +594,7 @@
         {
           "ID": "wrld_c5f7a361-e3d9-4266-89b4-1024fc39328b",
           "Name": "Carrot Palace ＆ avatar",
-          "Description": "",
+          "Description": "小さなアバターのかわいいお部屋。メルヘンチックできゅんととなります。-C0051-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -611,7 +611,7 @@
         {
           "ID": "wrld_6bda8294-8f85-4a3b-a6e4-4ecc69250b12",
           "Name": "MOS BURGER ON THE MOON",
-          "Description": "",
+          "Description": "月にウサギがいるってよ。モスバーガーもあるらしい。デリバリーやってるみたいよ。ハンバーガーは自分で作れて楽しいらしいよ。他にもあれこれあるみたい。さすがだね。公式ワールドは違うよね～-D0048-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -623,7 +623,7 @@
         {
           "ID": "wrld_4cdf3215-e7e6-475d-aebe-ef605d320119",
           "Name": "【JP】Qじゃぱん横丁 -Q Japan Street-",
-          "Description": "",
+          "Description": "満月の明かりに誘われて、都会のビルのど真ん中。今夜も友と飲みに来た。神社にお参りすませたら、いつもの店で大騒ぎ。比較的軽く夜はPC・Quest関係なく日本人が集まっています。-D0049-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -635,7 +635,7 @@
         {
           "ID": "wrld_cd56426f-8fa4-4509-8154-e19eb8603385",
           "Name": "瓶中駅前地下街 -Binnaka Chikagai-",
-          "Description": "",
+          "Description": "電車が通る音が会話を遮る。少しうるさい高架下。中華、ラーメン、スナックと、小さな店が軒を連ね常連客を集めてる。戦後まもなくできた飲食通り、酔った客が大きな声で立ち話。狭い通路は人で溢れ、古き良き時代の現役通り。-D0052-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -647,7 +647,19 @@
         {
           "ID": "wrld_b8cbc920-bb6a-49d6-a2e0-5de5213ffc85",
           "Name": "ぶいあ～る横丁-VR Yokocho-",
-          "Description": "",
+          "Description": "近頃、夜な夜な人が集まるという。小さな町の小さな飲食街。程よく狭い路地が妙に居心地が良いのか。行き場を失ったVR民がそこかしこと輪になってにぎやか。-D0053-",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2fb23f1a-d92b-4f4d-921a-64606c00f8cf",
+          "Name": "Cafe' Summer Sky",
+          "Description": "日差しが明るく差し込み、フロアに夏を届ける午後。青空を映す湖にあるいつもの喫茶店。JAZZのBGMが心地よい。ひとり椅子に座って、ぼんやり過ごすコーヒータイム。いつしか時が流れてもずっと決まってここが好き。-D0079-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -664,7 +676,7 @@
         {
           "ID": "wrld_9437a214-17c5-4e3f-93d4-42d46bdddf4b",
           "Name": "80's music cafe",
-          "Description": "",
+          "Description": "山下達郎『FOR YOU』のレコードジャケットを手がけた80年代を代表するイラストレーターの一人、鈴木英人氏の作品からインスパイヤされたカフェ。当時の空気が流れています。-E0054-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -813,6 +825,165 @@
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
           "Name": "Test Pilots",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "G「遊」Game•Horror",
+      "Worlds": [
+        {
+          "ID": "wrld_30701a1b-9685-4a45-b0ca-05f9991fa64e",
+          "Name": "Snowball Showdown",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8e909dbd-c6a7-4c64-af16-818161a0eceb",
+          "Name": "VRbomber",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "H「智」知識•便利•Avatar•Portal",
+      "Worlds": [
+        {
+          "ID": "wrld_bf51e60f-f372-48b1-a757-88ba8331d926",
+          "Name": "[JP]Tutorial world",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2",
+          "Name": "[JP]クエストトビラ QUEST TOBIRA",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ef2fded9-4bda-42af-94f2-22c5be018767",
+          "Name": "自己防衛のすすめ",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c336c67c-24af-45f0-9797-b440112ae257",
+          "Name": "Questユーザー向けVideoチュートリアル",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e055f1a3-6fcb-4d19-9945-f0a1c92cc19b",
+          "Name": "ホームチェックv6.0",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "J「集」集会場•出会い•Community",
+      "Worlds": [
+        {
+          "ID": "wrld_73a0d2d2-337b-467f-bc5d-88b93b6792b4",
+          "Name": "【JP】Quest駆け出し集会場",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_17777e91-3c5f-4079-9291-9b0cd3d636a1",
+          "Name": "[JP]Quest Kemono 集会場",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4cf554b4-430c-4f8f-b53e-1f294eed230b",
+          "Name": "The Black Cat",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_eeb5cb79-f78f-4a5b-a0be-e31a87c39303",
+          "Name": "[PH] Panaginip",
+          "Description": "",
+          "ThumbnailUrl": "",
+          "Platform": {
+            "PC": false,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_153be667-a86e-4aaf-9eed-921bd568ee9b",
+          "Name": "EN-JP Language Exchange",
           "Description": "",
           "ThumbnailUrl": "",
           "Platform": {
