@@ -688,7 +688,7 @@
         {
           "ID": "wrld_b2e8bfec-3acb-4025-a6f0-02bba648328e",
           "Name": "岩手県大槌町 震災復興記録写真展示室 （Photo Gallery of Otsuchi Town）",
-          "Description": "",
+          "Description": "東日本大震災からの岩手県大槌町の様子をとらえた写真が多数展示されています。-E0055-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -700,7 +700,7 @@
         {
           "ID": "wrld_1794a017-c5b1-4c64-93dd-2c8534fc5ca8",
           "Name": "T-Rex Penny Exhibit",
-          "Description": "",
+          "Description": "ティラノサウルスの骨格が展示されています。その大きさに圧倒されます。-E0056-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -712,7 +712,7 @@
         {
           "ID": "wrld_3cae169b-aacd-4a07-8a21-ad055f5e63f2",
           "Name": "ある旅人の記憶 Ver.2",
-          "Description": "",
+          "Description": "バイクでの旅で撮った、何気ない風景を切り取った写真がコメントと共に展示されています。-E0057-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -724,7 +724,7 @@
         {
           "ID": "wrld_1e220089-1cc1-4894-9322-25acda76dc55",
           "Name": "ICHIRO TSURUTA VR MUSEUM",
-          "Description": "",
+          "Description": "現在も精力的に活躍する日本を代表するイラストレーターの一人、鶴田一郎氏のVRギャラリー。氏が歩んできた変遷を辿ることができ、とても興味深い本格的な展示となっています。-H0058-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -736,7 +736,7 @@
         {
           "ID": "wrld_0c0330e1-2bca-424d-a052-a8180f8f46ff",
           "Name": "City Pop Records シティ・ポップ",
-          "Description": "",
+          "Description": "80年代を代表するイラストレーター永井博氏の作品の世界をうまく表現したワールドです。まるで大瀧詠一『A LONG VACATION』のレコードジャケットの中にいるようです。-E0059-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -748,7 +748,7 @@
         {
           "ID": "wrld_39808c25-82c6-4d05-bfb0-18db22a319b7",
           "Name": "Azuma Row House 住吉の長屋",
-          "Description": "",
+          "Description": "建築家『世界の安藤』の代表的な初期の作品を再現したワールド。打ちっぱなしのコンクリート壁や採光をうまく取り入れ、現代建築に影響を与えました。-E0060-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -765,7 +765,7 @@
         {
           "ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
           "Name": "VR Narita Airport《NRT⁄RJAA》",
-          "Description": "",
+          "Description": "操縦の初心者にもオススメな航空機が揃っている広い空港です。まずここで空を飛ぶ楽しさを体験してね。初心者向けに毎週講習イベントもおこなっています。-F0061-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -777,7 +777,7 @@
         {
           "ID": "wrld_40c04871-dd5f-411e-9d3c-d9ec97b8b9cb",
           "Name": "VR Matsumoto airport《RJAF》《MMJ》",
-          "Description": "",
+          "Description": "-F0062-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -789,7 +789,7 @@
         {
           "ID": "wrld_7350258e-4c9c-4b92-b404-3ce6f3db5f18",
           "Name": "PrimaryGliders",
-          "Description": "",
+          "Description": "飛ぶのもいいが、小高い丘からの眺めが好きだ。友に無線で呼びかける「うまくなったね」。機体を少し揺らして応えが返ってきた。緩やかに風が草原を舐める。今日も海は青い空と繋がっていた。-F0063-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -801,7 +801,7 @@
         {
           "ID": "wrld_4e757305-d115-4de3-91cf-cf9facc6836f",
           "Name": "Boaty McFloat Trip",
-          "Description": "",
+          "Description": "-F0064-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -813,7 +813,7 @@
         {
           "ID": "wrld_6fc1b4d9-262d-4026-b5f1-eab67ef191ff",
           "Name": "Downhill SkateBoarding",
-          "Description": "",
+          "Description": "慣れないとちょっと酔うかもしれないけれど、この坂を下るのはなかなか楽しい。身体を右に左に傾けて進むんだけど、椅子から落ちないようにご注意を。-F0065-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -825,7 +825,7 @@
         {
           "ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
           "Name": "Test Pilots",
-          "Description": "",
+          "Description": "<<Description>>There are 66 players in public instances of this world, join them by clicking on an instance below!-F0066-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -842,7 +842,7 @@
         {
           "ID": "wrld_30701a1b-9685-4a45-b0ca-05f9991fa64e",
           "Name": "Snowball Showdown",
-          "Description": "",
+          "Description": "<<Description>>Throw snowballs at your friends! Includes game modes like Free-For-All, Capture the Flag, and King of the Hill-F0067-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -854,7 +854,7 @@
         {
           "ID": "wrld_8e909dbd-c6a7-4c64-af16-818161a0eceb",
           "Name": "VRbomber",
-          "Description": "",
+          "Description": "<<Description>>A bomberman-like PvP game. The recommended maximum capacity is 30, but there's actually no player limit !-G0068-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -871,7 +871,7 @@
         {
           "ID": "wrld_bf51e60f-f372-48b1-a757-88ba8331d926",
           "Name": "[JP]Tutorial world",
-          "Description": "",
+          "Description": "VRCを始めた日本人なら、ここを訪れなかった人はいないほど有名なワールドです。更新もしっかりなされ最新の機能を知ることができます。また、24時間、人がいるコミュニティワールドとしても機能しています。-H0069-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -883,7 +883,7 @@
         {
           "ID": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2",
           "Name": "[JP]クエストトビラ QUEST TOBIRA",
-          "Description": "",
+          "Description": "シンプルな作りの老舗ポータルワールド。全てQuest対応です。ジャンル分けがなされ目的のものが見つけやすくできています。また更新も頻繁になされており、新しいワールドにも出会うことができるのも人気のひみつです。-H0070-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -895,7 +895,7 @@
         {
           "ID": "wrld_ef2fded9-4bda-42af-94f2-22c5be018767",
           "Name": "自己防衛のすすめ",
-          "Description": "",
+          "Description": "VRCのことをもう少し深く知りたいなら、ここがおすすめ。知らなかったでは済まされないルールが分かります。-H0071-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -907,7 +907,7 @@
         {
           "ID": "wrld_c336c67c-24af-45f0-9797-b440112ae257",
           "Name": "Questユーザー向けVideoチュートリアル",
-          "Description": "",
+          "Description": "VRChatの初心者が知っておくと良い設定等をショートビデオで紹介。「聞きたいことがあっても、人と話せない、人がいる時間に入れない」そんな人の為の初歩を独学で。-H0072-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -919,7 +919,7 @@
         {
           "ID": "wrld_e055f1a3-6fcb-4d19-9945-f0a1c92cc19b",
           "Name": "ホームチェックv6.0",
-          "Description": "",
+          "Description": "アバター改変を始めたら、ここがおすすめ。四面鏡はもちろん、自分の姿を色々な角度で見ることができるクローン機能等、必要なものがコンパクトにまとめられています。ホームにして、お出かけ前のチェックにも最適です。-H0073-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -936,7 +936,7 @@
         {
           "ID": "wrld_73a0d2d2-337b-467f-bc5d-88b93b6792b4",
           "Name": "【JP】Quest駆け出し集会場",
-          "Description": "",
+          "Description": "Questにやさしい人達が集まる小さな集会場です。困ったことがあれば、きっと答えてくれるはずです。VRC初心者案内用としてもGOOD。-J0074-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -948,7 +948,7 @@
         {
           "ID": "wrld_17777e91-3c5f-4079-9291-9b0cd3d636a1",
           "Name": "[JP]Quest Kemono 集会場",
-          "Description": "",
+          "Description": "ケモノアバターが集まる集会場。イベントの日には沢山のケモノ達であふれます。-J0075-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -960,7 +960,7 @@
         {
           "ID": "wrld_4cf554b4-430c-4f8f-b53e-1f294eed230b",
           "Name": "The Black Cat",
-          "Description": "",
+          "Description": "英語ネイティブな地域の人達のコミュニティ。比較的ヤング・アダルトが集まっています。アニメのこと恋のお話、ジョーク…どこの国でも若者の悩みはつきません。-J0076-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -972,7 +972,7 @@
         {
           "ID": "wrld_eeb5cb79-f78f-4a5b-a0be-e31a87c39303",
           "Name": "[PH] Panaginip",
-          "Description": "",
+          "Description": "フィリピンの人達が集まるコミュニティ。広くなって快適に過ごせるようになりました。郷においては郷に従うことを忘れずに。きっと彼らは大歓迎してくれますよ。-J0077-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -984,7 +984,7 @@
         {
           "ID": "wrld_153be667-a86e-4aaf-9eed-921bd568ee9b",
           "Name": "EN-JP Language Exchange",
-          "Description": "",
+          "Description": "英語を話したい、話せるようになりたい日本人と日本語を話したい外国人」との国際交流ワールド。時間によって様々な国と地域から集まってきます。外国人とフレンドになりたい方や、無料でお手軽「VRC英語留学」がしたい方にぴったりです。-J0078-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
