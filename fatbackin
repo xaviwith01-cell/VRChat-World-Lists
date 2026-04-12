@@ -56,7 +56,7 @@
         {
           "ID": "wrld_4ab6fd77-f4e7-4fcc-9153-b0988c6019f4",
           "Name": "Poolroom Madness",
-          "Description": "-0005-",
+          "Description": "美しさと不気味さは紙一重。-0005-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -248,7 +248,7 @@
         {
           "ID": "wrld_ddc67c04-b09c-4e3b-b470-bf79e3caeb7a",
           "Name": "Space and Chill",
-          "Description": "-0021-",
+          "Description": "V睡に疲れたら、宇宙空間を飛び回ろう！-0021-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -284,7 +284,7 @@
         {
           "ID": "wrld_56dcd7bb-bfcd-44ab-ba42-e037b2e8cefb",
           "Name": "The Ink Room",
-          "Description": "-0024-",
+          "Description": "貴方色に染めてほしいの。-0024-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
@@ -404,7 +404,7 @@
         {
           "ID": "wrld_bc1be647-729f-4187-b284-463f7d55f274",
           "Name": "謎解きワールド『Solution』",
-          "Description": "-0034-",
+          "Description": "思い込みは敵。-0034-",
           "ThumbnailUrl": "",
           "Platform": {
             "PC": false,
